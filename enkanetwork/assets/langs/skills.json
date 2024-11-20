@@ -13,6 +13,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -30,6 +32,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -47,6 +51,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -64,6 +70,8 @@
         "PT": "Arte Kamisato: Senho",
         "RU": "Искусство Камисато: Сэнхо",
         "TH": "Kamisato Art: Senho",
+        "TH_1": "Kamisato Art: Senho",
+        "TH_2": "",
         "TR": "Kamisato Sanatı: Senho",
         "VI": "Trường Phái Kamisato - Senho"
     },
@@ -81,6 +89,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -98,6 +108,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -115,6 +127,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -132,6 +146,8 @@
         "PT": "Chuva Ardente",
         "RU": "Огненный дождь",
         "TH": "Fiery Rain",
+        "TH_1": "Fiery Rain",
+        "TH_2": "",
         "TR": "Ateş Yağmuru",
         "VI": "Mưa Tên"
     },
@@ -149,6 +165,8 @@
         "PT": "Arte Kamisato: Hyouka",
         "RU": "Искусство Камисато: Хёка",
         "TH": "Kamisato Art: Hyouka",
+        "TH_1": "Kamisato Art: Hyouka",
+        "TH_2": "",
         "TR": "Kamisato Sanatı: Hyouka",
         "VI": "Trường Phái Kamisato - Hyouka"
     },
@@ -166,6 +184,8 @@
         "PT": "Arte Kamisato: Soumetsu",
         "RU": "Искусство Камисато: Сомэцу",
         "TH": "Kamisato Art: Soumetsu",
+        "TH_1": "Kamisato Art: Soumetsu",
+        "TH_2": "",
         "TR": "Kamisato Sanatı: Soumetsu",
         "VI": "Trường Phái Kamisato - Soumetsu"
     },
@@ -183,6 +203,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -200,6 +222,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -217,6 +241,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -234,6 +260,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -251,6 +279,8 @@
         "PT": "Arte Kamisato: Naname",
         "RU": "Искусство Камисато: Нанамэ",
         "TH": "โจมตีปกติ: Kamisato Art - Kabuki",
+        "TH_1": "โจมตีปกติ: Kamisato Art - Kabuki",
+        "TH_2": "",
         "TR": "Normal Saldırı: Kamisato Sanatı - Kabuki",
         "VI": "Tấn Công Thường - Trường Phái Kamisato: Naname"
     },
@@ -268,6 +298,8 @@
         "PT": "Ataque Normal: Técnica de Favonius",
         "RU": "Фехтовальный стиль Фавония",
         "TH": "โจมตีปกติ: Favonius Bladework",
+        "TH_1": "โจมตีปกติ: Favonius Bladework",
+        "TH_2": "",
         "TR": "Normal Saldırı: Favonius Kılıç Tekniği",
         "VI": "Tấn Công Thường - Tây Phong Kiếm Thuật"
     },
@@ -285,6 +317,8 @@
         "PT": "Marionete Explosiva",
         "RU": "Барон Зайчик",
         "TH": "Explosive Puppet",
+        "TH_1": "Explosive Puppet",
+        "TH_2": "",
         "TR": "Patlayıcı Kukla",
         "VI": "Con Rối Nổ"
     },
@@ -302,6 +336,8 @@
         "PT": "Espada do Temporal",
         "RU": "Клинок ветра",
         "TH": "Gale Blade",
+        "TH_1": "Gale Blade",
+        "TH_2": "",
         "TR": "Bora Kılıcı",
         "VI": "Gió Cuộn Kiếm"
     },
@@ -319,6 +355,8 @@
         "PT": "Brisa de Dandelion",
         "RU": "Одуванчиковый бриз",
         "TH": "Dandelion Breeze",
+        "TH_1": "",
+        "TH_2": "Dandelion Breeze",
         "TR": "Karahindiba Yeli",
         "VI": "Gió Bồ Công Anh"
     },
@@ -336,6 +374,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -353,6 +393,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -370,6 +412,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -387,6 +431,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -404,6 +450,8 @@
         "PT": "Ataque Normal: Pontaria",
         "RU": "Первоклассный стрелок",
         "TH": "โจมตีปกติ: Sharpshooter",
+        "TH_1": "โจมตีปกติ: Sharpshooter",
+        "TH_2": "",
         "TR": "Normal Saldırı: Keskin Nişancı",
         "VI": "Tấn Công Thường: Xạ Thủ Thần"
     },
@@ -421,6 +469,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -438,6 +488,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -455,6 +507,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -472,6 +526,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -489,6 +545,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -506,6 +564,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -523,6 +583,8 @@
         "PT": "Ataque Normal: Memórias Passadas",
         "RU": "Воспоминания о минувшем",
         "TH": "โจมตีปกติ: Past Memories",
+        "TH_1": "โจมตีปกติ: Past Memories",
+        "TH_2": "",
         "TR": "Normal Saldırı: Eski Hatıralar",
         "VI": "Tấn Công Thường: Hồi Ức Cái Chết"
     },
@@ -540,6 +602,8 @@
         "PT": "Ataque Normal: Memórias Passadas",
         "RU": "Воспоминания о минувшем",
         "TH": "โจมตีปกติ: Past Memories",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Past Memories",
         "TR": "Normal Saldırı: Eski Hatıralar",
         "VI": "Tấn Công Thường: Hồi Ức Cái Chết"
     },
@@ -557,6 +621,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -574,6 +640,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -591,6 +659,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -608,6 +678,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -625,6 +697,8 @@
         "PT": "Ataque Normal: Toque do Relâmpago",
         "RU": "Касание молнии",
         "TH": "โจมตีปกติ: Lightning Touch",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Lightning Touch",
         "TR": "Normal Saldırı: Yıldırım Dokunuşu",
         "VI": "Tấn Công Thường: Sấm Sét Cảm Ứng"
     },
@@ -642,6 +716,8 @@
         "PT": "Arco Violeta",
         "RU": "Пурпурная дуга",
         "TH": "Violet Arc",
+        "TH_1": "",
+        "TH_2": "Violet Arc",
         "TR": "Mor Akım",
         "VI": "Sấm Giội"
     },
@@ -659,6 +735,8 @@
         "PT": "Rosa do Relâmpago",
         "RU": "Громовая роза",
         "TH": "Lightning Rose",
+        "TH_1": "Lightning Rose",
+        "TH_2": "",
         "TR": "Şimşek Gülü",
         "VI": "Tường Vi Sấm Sét"
     },
@@ -676,6 +754,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -693,6 +773,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -710,6 +792,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -727,6 +811,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -744,6 +830,8 @@
         "PT": "Vórtice da Palma",
         "RU": "Ладонь вихря",
         "TH": "Palm Vortex",
+        "TH_1": "",
+        "TH_2": "Palm Vortex",
         "TR": "Avuç Girdabı",
         "VI": "Kiếm Gió Lốc"
     },
@@ -761,6 +849,8 @@
         "PT": "Ondas de Rajadas",
         "RU": "Взрывное торнадо",
         "TH": "Gust Surge",
+        "TH_1": "Gust Surge",
+        "TH_2": "",
         "TR": "Ani Rüzgar Dalgası",
         "VI": "Khuấy Động Gió Tàn"
     },
@@ -778,6 +868,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -795,6 +887,8 @@
         "PT": "Ataque Normal: Suspiro da Água",
         "RU": "Шёпот воды",
         "TH": "โจมตีปกติ: Whisper of Water",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Whisper of Water",
         "TR": "Normal Saldırı: Suyun Fısıltısı",
         "VI": "Tấn Công Thường: Giọng Ca Của Nước"
     },
@@ -812,6 +906,8 @@
         "PT": "Que Comece o Espetáculo ♪",
         "RU": "Да начнётся шоу♪",
         "TH": "Let the Show Begin♪",
+        "TH_1": "Let the Show Begin♪",
+        "TH_2": "",
         "TR": "Gösteri Başlasın♪",
         "VI": "Buổi Diễn, Bắt Đầu♪"
     },
@@ -829,6 +925,8 @@
         "PT": "Milagre Brilhante ♪",
         "RU": "Чудесное сияние♪",
         "TH": "Shining Miracle♪",
+        "TH_1": "",
+        "TH_2": "Shining Miracle♪",
         "TR": "Parlayan Mucize♪",
         "VI": "Kỳ Tích Vinh Diệu♪"
     },
@@ -846,6 +944,8 @@
         "PT": "Ataque Normal: Lâmina Cerimonial",
         "RU": "Ритуальное фехтование",
         "TH": "โจมตีปกติ: Ceremonial Bladework",
+        "TH_1": "โจมตีปกติ: Ceremonial Bladework",
+        "TH_2": "",
         "TR": "Normal Saldırı: Merasim Kılıcı Tekniği",
         "VI": "Tấn Công Thường: Nghi Lễ Kiếm Thuật"
     },
@@ -863,6 +963,8 @@
         "PT": "Mordida Congelante",
         "RU": "Выпад холода",
         "TH": "Frostgnaw",
+        "TH_1": "",
+        "TH_2": "Frostgnaw",
         "TR": "Buzul Isırığı",
         "VI": "Đột Kích Băng Giá"
     },
@@ -880,6 +982,8 @@
         "PT": "Valsa Glacial",
         "RU": "Ледниковый вальс",
         "TH": "Glacial Waltz",
+        "TH_1": "Glacial Waltz",
+        "TH_2": "",
         "TR": "Buzul Valsi",
         "VI": "Vũ Điệu Giá Rét"
     },
@@ -897,6 +1001,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -914,6 +1020,8 @@
         "PT": "Espada da Estrela Cadente",
         "RU": "Меч звездопада",
         "TH": "Starfell Sword",
+        "TH_1": "",
+        "TH_2": "Starfell Sword",
         "TR": "Yıldızdüşen Kılıcı",
         "VI": "Kiếm Sao Băng"
     },
@@ -931,6 +1039,8 @@
         "PT": "Despertar da Terra",
         "RU": "Движение земли",
         "TH": "Wake of Earth",
+        "TH_1": "",
+        "TH_2": "Wake of Earth",
         "TR": "Dünyanın Uyanışı",
         "VI": "Sóng Đá Trùng Điệp"
     },
@@ -948,6 +1058,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -965,6 +1077,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -982,6 +1096,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -999,6 +1115,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1016,6 +1134,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1033,6 +1153,8 @@
         "PT": "Sabre da Insígnia Aquática",
         "RU": "Клинок водной эмблемы",
         "TH": "Aquacrest Saber",
+        "TH_1": "",
+        "TH_2": "Aquacrest Saber",
         "TR": "Su Oymalı Kılıç",
         "VI": "Thủy Văn Kiếm"
     },
@@ -1050,6 +1172,8 @@
         "PT": "Maré Ascendente",
         "RU": "Прибывающая вода",
         "TH": "Rising Waters",
+        "TH_1": "",
+        "TH_2": "Rising Waters",
         "TR": "Yükselen Sular",
         "VI": "Dòng Chảy Cuồn Cuộn"
     },
@@ -1067,6 +1191,8 @@
         "PT": "Espada da Grama Afiada",
         "RU": "Травяной клинок",
         "TH": "Razorgrass Blade",
+        "TH_1": "",
+        "TH_2": "Razorgrass Blade",
         "TR": "Yaprak Kılıcı",
         "VI": "Thảo Duyên Kiếm"
     },
@@ -1084,6 +1210,8 @@
         "PT": "Mímico Dendro",
         "RU": "Пригибающий траву ветер",
         "TH": "Surgent Manifestation",
+        "TH_1": "Surgent Manifestation",
+        "TH_2": "",
         "TR": "Bitkilerden Yükselen Işık",
         "VI": "Yển Thảo Nhược Hóa"
     },
@@ -1101,6 +1229,8 @@
         "PT": "Ataque Normal: Espada Temperada",
         "RU": "Закалённый меч",
         "TH": "โจมตีปกติ: Tempered Sword",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Tempered Sword",
         "TR": "Normal Saldırı: Akkor Kılıç",
         "VI": "Tấn Công Thường: Kiếm Tôi Luyện"
     },
@@ -1118,6 +1248,8 @@
         "PT": "Investida Ardente",
         "RU": "Огненный натиск",
         "TH": "Searing Onslaught",
+        "TH_1": "Searing Onslaught",
+        "TH_2": "",
         "TR": "Dağlayan Taarruz",
         "VI": "Lưỡi Đao Rực Lửa"
     },
@@ -1135,6 +1267,8 @@
         "PT": "Investida Ardente",
         "RU": "Огненный натиск",
         "TH": "Searing Onslaught",
+        "TH_1": "Searing Onslaught",
+        "TH_2": "",
         "TR": "Dağlayan Taarruz",
         "VI": "Lưỡi Đao Rực Lửa"
     },
@@ -1152,6 +1286,8 @@
         "PT": "Investida Ardente",
         "RU": "Огненный натиск",
         "TH": "Searing Onslaught",
+        "TH_1": "",
+        "TH_2": "Searing Onslaught",
         "TR": "Dağlayan Taarruz",
         "VI": "Lưỡi Đao Rực Lửa"
     },
@@ -1169,6 +1305,8 @@
         "PT": "Alvorecer",
         "RU": "Рассвет",
         "TH": "Dawn",
+        "TH_1": "Dawn",
+        "TH_2": "",
         "TR": "Şafak",
         "VI": "Bình Minh"
     },
@@ -1186,6 +1324,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1203,6 +1343,8 @@
         "PT": "Ataque Normal: Presa de Aço",
         "RU": "Стальной клык",
         "TH": "โจมตีปกติ: Steel Fang",
+        "TH_1": "โจมตีปกติ: Steel Fang",
+        "TH_2": "",
         "TR": "Normal Saldırı: Çelik Diş",
         "VI": "Tấn Công Thường: Nanh Thép"
     },
@@ -1220,6 +1362,8 @@
         "PT": "Garra e Trovão",
         "RU": "Гром и когти",
         "TH": "Claw and Thunder",
+        "TH_1": "Claw and Thunder",
+        "TH_2": "",
         "TR": "Pençe ve Yıldırım",
         "VI": "Vuốt Và Sấm"
     },
@@ -1237,6 +1381,8 @@
         "PT": "Dente de Relâmpago",
         "RU": "Громовой клык",
         "TH": "Lightning Fang",
+        "TH_1": "Lightning Fang",
+        "TH_2": "",
         "TR": "Şimşek Diş",
         "VI": "Răng Sét"
     },
@@ -1254,6 +1400,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1271,6 +1419,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1288,6 +1438,8 @@
         "PT": "Ataque Normal: Tiro com Arco Divino",
         "RU": "Божественная точность",
         "TH": "โจมตีปกติ: Divine Marksmanship",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Divine Marksmanship",
         "TR": "Normal Saldırı: Kutsal Nişancı",
         "VI": "Tấn Công Thường: Xạ Thuật Của Thần"
     },
@@ -1305,6 +1457,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1322,6 +1476,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1339,6 +1495,8 @@
         "PT": "Sonata Celestial",
         "RU": "Небесная поэзия",
         "TH": "Skyward Sonnet",
+        "TH_1": "Skyward Sonnet",
+        "TH_2": "",
         "TR": "Göklerin Sonesi",
         "VI": "Bài Ca Trời Cao"
     },
@@ -1356,6 +1514,8 @@
         "PT": "Grande Ode do Vento",
         "RU": "Великая ода ветру",
         "TH": "Wind's Grand Ode",
+        "TH_1": "",
+        "TH_2": "Wind's Grand Ode",
         "TR": "Rüzgarın Büyük Kasidesi",
         "VI": "Bài Thơ Thần Gió"
     },
@@ -1373,6 +1533,8 @@
         "PT": "Ataque Normal: Pastelaria Kung Fu",
         "RU": "Кунг-Тесто",
         "TH": "โจมตีปกติ: Dough-Fu",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Dough-Fu",
         "TR": "Normal Saldırı: Un-Fu",
         "VI": "Tấn Công Thường: Tài Nghệ Làm Bánh"
     },
@@ -1390,6 +1552,8 @@
         "PT": "Ataque de Guoba",
         "RU": "Атака Гобы",
         "TH": "Guoba Attack",
+        "TH_1": "Guoba Attack",
+        "TH_2": "",
         "TR": "Guoba Saldırısı",
         "VI": "Guoba Xuất Kích"
     },
@@ -1407,6 +1571,8 @@
         "PT": "Pyronado",
         "RU": "Огневихрь",
         "TH": "Pyronado",
+        "TH_1": "Pyronado",
+        "TH_2": "",
         "TR": "Ateş Çarkı",
         "VI": "Bánh Xe Lửa"
     },
@@ -1424,6 +1590,8 @@
         "PT": "Ataque Normal: Conquista do Oceano",
         "RU": "По волнам",
         "TH": "โจมตีปกติ: Oceanborne",
+        "TH_1": "โจมตีปกติ: Oceanborne",
+        "TH_2": "",
         "TR": "Normal Saldırı: Okyanustan Gelen",
         "VI": "Tấn Công Thường: Đại Dương"
     },
@@ -1441,6 +1609,8 @@
         "PT": "Invocadora da Maré",
         "RU": "Призыв волны",
         "TH": "Tidecaller",
+        "TH_1": "Tidecaller",
+        "TH_2": "",
         "TR": "Dalga Çağıran",
         "VI": "Bắt Sóng"
     },
@@ -1458,6 +1628,8 @@
         "PT": "Quebrador de Tempestades",
         "RU": "Крушитель бури",
         "TH": "Stormbreaker",
+        "TH_1": "Stormbreaker",
+        "TH_2": "",
         "TR": "Fırtına Kıran",
         "VI": "Chước Lôi"
     },
@@ -1475,6 +1647,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1492,6 +1666,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1509,6 +1685,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1526,6 +1704,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1543,6 +1723,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1560,6 +1742,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1577,6 +1761,8 @@
         "PT": "Ataque Normal: Impulso do Redemoinho",
         "RU": "Вихревой удар",
         "TH": "โจมตีปกติ: Whirlwind Thrust",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Whirlwind Thrust",
         "TR": "Normal Saldırı: Kasırga Saldırısı",
         "VI": "Tấn Công Thường - Cuốn Quét Bụi Trần"
     },
@@ -1594,6 +1780,8 @@
         "PT": "Vento Lemniscático",
         "RU": "Лемниската ветра",
         "TH": "Lemniscatic Wind Cycling",
+        "TH_1": "Lemniscatic Wind Cycling",
+        "TH_2": "",
         "TR": "Sonsuz Rüzgar Türbini",
         "VI": "Đôi Bánh Xe Gió"
     },
@@ -1611,6 +1799,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1628,6 +1818,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1645,6 +1837,8 @@
         "PT": "Dança Nuo da Conquista do Mal",
         "RU": "Истребление всего зла",
         "TH": "Bane of All Evil",
+        "TH_1": "",
+        "TH_2": "Bane of All Evil",
         "TR": "Tüm Şerlerin Laneti",
         "VI": "Vũ Điệu Trừ Yêu"
     },
@@ -1662,6 +1856,8 @@
         "PT": "Ataque Normal: Dispersão Espumante",
         "RU": "Сверкающий дождь",
         "TH": "โจมตีปกติ: Sparkling Scatter",
+        "TH_1": "โจมตีปกติ: Sparkling Scatter",
+        "TH_2": "",
         "TR": "Normal Saldırı: Parıldayan Parçacıklar",
         "VI": "Tấn Công Thường - Ngàn Vàng Lấp Lánh"
     },
@@ -1679,6 +1875,8 @@
         "PT": "Tela de Jade",
         "RU": "Нефритовая ширма",
         "TH": "Jade Screen",
+        "TH_1": "Jade Screen",
+        "TH_2": "",
         "TR": "Yeşim Tablet",
         "VI": "Vách Toàn Cơ"
     },
@@ -1696,6 +1894,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1713,6 +1913,8 @@
         "PT": "Quebrador de Estrelas",
         "RU": "Осколки звёзд",
         "TH": "Starshatter",
+        "TH_1": "Starshatter",
+        "TH_2": "",
         "TR": "Yıldız Kıran",
         "VI": "Thiên Quyền Băng Ngọc"
     },
@@ -1730,6 +1932,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1747,6 +1951,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1764,6 +1970,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1781,6 +1989,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1798,6 +2008,8 @@
         "PT": "Ataque Normal: Kaboom!",
         "RU": "Бабах!",
         "TH": "โจมตีปกติ: Kaboom!",
+        "TH_1": "โจมตีปกติ: Kaboom!",
+        "TH_2": "",
         "TR": "Normal Saldırı: Bom!",
         "VI": "Tấn Công Thường - Bằng Bằng"
     },
@@ -1815,6 +2027,8 @@
         "PT": "Bomba Saltitante",
         "RU": "Прыг-скок бомба",
         "TH": "Jumpy Dumpty",
+        "TH_1": "",
+        "TH_2": "Jumpy Dumpty",
         "TR": "Zıpzıp Bodur",
         "VI": "Bom Nảy"
     },
@@ -1832,6 +2046,8 @@
         "PT": "Faíscas Explosivas",
         "RU": "Грохот и искры",
         "TH": "Sparks 'n' Splash",
+        "TH_1": "Sparks 'n' Splash",
+        "TH_2": "",
         "TR": "Kıvılcımlar ve Patlama",
         "VI": "Tia Lửa Mãnh Liệt"
     },
@@ -1849,6 +2065,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1866,6 +2084,8 @@
         "PT": "Ataque Normal: Chuva de Pedras",
         "RU": "Каменный дождь",
         "TH": "โจมตีปกติ: Rain of Stone",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Rain of Stone",
         "TR": "Normal Saldırı: Taş Yağmuru",
         "VI": "Tấn Công Thường - Mưa Đá"
     },
@@ -1883,6 +2103,8 @@
         "PT": "Dominus Lapidis",
         "RU": "Власть над камнем",
         "TH": "Dominus Lapidis",
+        "TH_1": "Dominus Lapidis",
+        "TH_2": "",
         "TR": "Taşların Efendisi",
         "VI": "Tâm Trái Đất"
     },
@@ -1900,6 +2122,8 @@
         "PT": "Chuva Estelar",
         "RU": "Падение кометы",
         "TH": "Planet Befall",
+        "TH_1": "Planet Befall",
+        "TH_2": "",
         "TR": "Düşen Gezegen",
         "VI": "Thiên Tinh"
     },
@@ -1917,6 +2141,8 @@
         "PT": "Ataque Normal: Flechas da Culpa",
         "RU": "Стрела возмездия",
         "TH": "โจมตีปกติ: Bolts of Downfall",
+        "TH_1": "โจมตีปกติ: Bolts of Downfall",
+        "TH_2": "",
         "TR": "Normal Saldırı: Düşen Yıldırımlar",
         "VI": "Tấn Công Thường - Mũi Tên Diệt Ác"
     },
@@ -1934,6 +2160,8 @@
         "PT": "Asas da Vigilância Noturna",
         "RU": "Тень расправленных крыльев",
         "TH": "Nightrider",
+        "TH_1": "Nightrider",
+        "TH_2": "",
         "TR": "Gecekuşu",
         "VI": "Cánh Chim Đêm"
     },
@@ -1951,6 +2179,8 @@
         "PT": "Ilusão Noturna",
         "RU": "Ночная иллюзия",
         "TH": "Midnight Phantasmagoria",
+        "TH_1": "Midnight Phantasmagoria",
+        "TH_2": "",
         "TR": "Gece Yanılsaması",
         "VI": "Ảo Ảnh Bóng Đêm"
     },
@@ -1968,6 +2198,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -1985,6 +2217,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2002,6 +2236,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2019,6 +2255,8 @@
         "PT": "Ataque Normal: Espada da Sorte",
         "RU": "Счастливый меч",
         "TH": "โจมตีปกติ: Strike of Fortune",
+        "TH_1": "โจมตีปกติ: Strike of Fortune",
+        "TH_2": "",
         "TR": "Normal Saldırı: Şanslı Vuruş",
         "VI": "Tấn Công Thường: Kiếm May Mắn"
     },
@@ -2036,6 +2274,8 @@
         "PT": "Sobrecarga de Paixão",
         "RU": "Чрезмерные стремления",
         "TH": "Passion Overload",
+        "TH_1": "",
+        "TH_2": "Passion Overload",
         "TR": "Tutku Patlaması",
         "VI": "Nhiệt Tình Quá Độ"
     },
@@ -2053,6 +2293,8 @@
         "PT": "Viagem Fantástica",
         "RU": "Волнительное приключение",
         "TH": "Fantastic Voyage",
+        "TH_1": "",
+        "TH_2": "Fantastic Voyage",
         "TR": "Unutulmaz Serüven",
         "VI": "Hành Trình Kỳ Diệu"
     },
@@ -2070,6 +2312,8 @@
         "PT": "Ataque Normal: Intercepção de Chuva",
         "RU": "Дождь расставаний",
         "TH": "โจมตีปกติ: Cutting Torrent",
+        "TH_1": "โจมตีปกติ: Cutting Torrent",
+        "TH_2": "",
         "TR": "Normal Saldırı: Keskin Sel",
         "VI": "Tấn Công Thường: Chém Mưa"
     },
@@ -2087,6 +2331,8 @@
         "PT": "Legado do Mal - Ondas de Fúria",
         "RU": "Форма духа: Бушующие волны",
         "TH": "Foul Legacy: Raging Tide",
+        "TH_1": "",
+        "TH_2": "Foul Legacy: Raging Tide",
         "TR": "Kötülüğün Mirası: Dalgaların Öfkesi",
         "VI": "Trang Phục Ma Vương - Thủy Triều"
     },
@@ -2104,6 +2350,8 @@
         "PT": "Devastação: Obliteração",
         "RU": "Хаос: Опустошение",
         "TH": "Havoc: Obliteration",
+        "TH_1": "Havoc: Obliteration",
+        "TH_2": "",
         "TR": "Yıkım: Yok Etme",
         "VI": "Kỹ năng Thượng Thừa - Ánh Sáng Tận Diệt"
     },
@@ -2121,6 +2369,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2138,6 +2388,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2155,6 +2407,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2172,6 +2426,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2189,6 +2445,8 @@
         "PT": "Ataque Normal: Técnica de Espada de Favonius - Empregada",
         "RU": "Фехтовальный стиль Фавония: Горничная",
         "TH": "โจมตีปกติ: Favonius Bladework - Maid",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Favonius Bladework - Maid",
         "TR": "Normal Saldırı: Favonius Kılıç Tekniği - Hizmetçi",
         "VI": "Tấn Công Thường: Tây Phong Kiếm Thuật - Hầu Gái"
     },
@@ -2206,6 +2464,8 @@
         "PT": "Guardião do Coração",
         "RU": "Бронефартук",
         "TH": "Breastplate",
+        "TH_1": "",
+        "TH_2": "Breastplate",
         "TR": "Kalbin Zırhı",
         "VI": "Giáp Hộ Tâm"
     },
@@ -2223,6 +2483,8 @@
         "PT": "Grande Limpeza",
         "RU": "Генеральная уборка",
         "TH": "Sweeping Time",
+        "TH_1": "",
+        "TH_2": "Sweeping Time",
         "TR": "Süpürme Vakti",
         "VI": "Quét Sạch"
     },
@@ -2240,6 +2502,8 @@
         "PT": "Talento Passivo da Noelle (Escudo)",
         "RU": "Пассивный талант Ноэлль (Щит)",
         "TH": "พรสวรรค์เชิงรับของ Noelle (โล่)",
+        "TH_1": "พรสวรรค์เชิงรับของ Noelle (โล่)",
+        "TH_2": "",
         "TR": "Noelle'in Pasif Yeteneği (Kalkan)",
         "VI": "Thiên phú bị động của Noelle (khiên trên)"
     },
@@ -2257,6 +2521,8 @@
         "PT": "Ataque Normal: Arte da Espada Antiga",
         "RU": "Облачный меч",
         "TH": "โจมตีปกติ: Ancient Sword Art",
+        "TH_1": "โจมตีปกติ: Ancient Sword Art",
+        "TH_2": "",
         "TR": "Normal Saldırı: Kadim Kılıç Sanatı",
         "VI": "Tấn Công Thường - Vân Lai Cổ Kiếm Pháp"
     },
@@ -2274,6 +2540,8 @@
         "PT": "Arte do Adeptus: Arauto da Floresta",
         "RU": "Искусство Адепта: Вестник стужи",
         "TH": "Adeptus Art: Herald of Frost",
+        "TH_1": "Adeptus Art: Herald of Frost",
+        "TH_2": "",
         "TR": "Adeptus Büyüsü: Ayazın Habercisi",
         "VI": "Tiên pháp - Hàn Bệnh Quỷ Sai"
     },
@@ -2291,6 +2559,8 @@
         "PT": "Arte do Adeptus: Preservador da Fortuna",
         "RU": "Искусство Адепта: Хранитель Фортуны",
         "TH": "Adeptus Art: Preserver of Fortune",
+        "TH_1": "Adeptus Art: Preserver of Fortune",
+        "TH_2": "",
         "TR": "Adeptus Büyüsü: Nazar",
         "VI": "Tiên Pháp - Cứu Khổ Độ Ách"
     },
@@ -2308,6 +2578,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2325,6 +2597,8 @@
         "PT": "Ataque Normal: Disparo Liutian",
         "RU": "Небесная стрела",
         "TH": "โจมตีปกติ: Liutian Archery",
+        "TH_1": "โจมตีปกติ: Liutian Archery",
+        "TH_2": "",
         "TR": "Normal Saldırı: Liutian Okçuluğu",
         "VI": "Tấn Công Thường - Lưu Thiên Xạ Thuật"
     },
@@ -2342,6 +2616,8 @@
         "PT": "Rastros de Qilin",
         "RU": "След цилиня",
         "TH": "Trail of the Qilin",
+        "TH_1": "Trail of the Qilin",
+        "TH_2": "",
         "TR": "Qilin'in İzi",
         "VI": "Sơn Trạch Lân Tích"
     },
@@ -2359,6 +2635,8 @@
         "PT": "Chuva Celestial",
         "RU": "Небесный дождь",
         "TH": "Celestial Shower",
+        "TH_1": "Celestial Shower",
+        "TH_2": "",
         "TR": "Göklerin Görkemi",
         "VI": "Thiên Hoa Hạ Phàm"
     },
@@ -2376,6 +2654,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2393,6 +2673,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2410,6 +2692,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2427,6 +2711,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2444,6 +2730,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2461,6 +2749,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2478,6 +2768,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2495,6 +2787,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2512,6 +2806,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2529,6 +2825,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2546,6 +2844,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2563,6 +2863,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2580,6 +2882,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2597,6 +2901,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2614,6 +2920,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2631,6 +2939,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2648,6 +2958,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2665,6 +2977,8 @@
         "PT": "Ataque Normal: Estilo Guhua",
         "RU": "Стиль Гухуа",
         "TH": "โจมตีปกติ: Guhua Style",
+        "TH_1": "โจมตีปกติ: Guhua Style",
+        "TH_2": "",
         "TR": "Normal Saldırı: Guhua Tarzı",
         "VI": "Tấn Công Thường: Cổ Hoa Kiếm Pháp"
     },
@@ -2682,6 +2996,8 @@
         "PT": "Espada de Guhua: Chuva Torrencial",
         "RU": "Гухуа: Завеса дождя",
         "TH": "Guhua Sword: Fatal Rainscreen",
+        "TH_1": "Guhua Sword: Fatal Rainscreen",
+        "TH_2": "",
         "TR": "Guhua Kılıcı: Ölümcül Yağmur",
         "VI": "Cổ Hoa Kiếm - Họa Vũ Lung Sơn"
     },
@@ -2699,6 +3015,8 @@
         "PT": "Espada Guhua: Retalhador de Chuva",
         "RU": "Гухуа: Радужная стойка",
         "TH": "Guhua Sword: Raincutter",
+        "TH_1": "Guhua Sword: Raincutter",
+        "TH_2": "",
         "TR": "Guhua Kılıcı: Yağmurkesici",
         "VI": "Cổ Hoa Kiếm - Tài Vũ Lưu Hồng"
     },
@@ -2716,6 +3034,8 @@
         "PT": "Ataque Normal: Técnica da Espada de Favonius - Branco",
         "RU": "Фехтовальный стиль Фавония: Мел",
         "TH": "โจมตีปกติ: Favonius Bladework - Weiss",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Favonius Bladework - Weiss",
         "TR": "Normal Saldırı: Favonius Kılıç Tekniği - Weiss",
         "VI": "Tấn Công Thường - Tây Phong Kiếm Thuật - Bạch"
     },
@@ -2733,6 +3053,8 @@
         "PT": "Abiogênese - Radiação Solar",
         "RU": "Абиогенез: Цветок солнца",
         "TH": "Abiogenesis: Solar Isotoma",
+        "TH_1": "Abiogenesis: Solar Isotoma",
+        "TH_2": "",
         "TR": "Yaratılış: Güneş Çiçeği",
         "VI": "Thuật Sáng Thế - Chế Tạo Mặt Trời"
     },
@@ -2750,6 +3072,8 @@
         "PT": "Ritual da Progenitura - Maré Tectônica",
         "RU": "Ритуал рождения: Тектоническая волна",
         "TH": "Rite of Progeniture: Tectonic Tide",
+        "TH_1": "Rite of Progeniture: Tectonic Tide",
+        "TH_2": "",
         "TR": "Varoluş Ayini: Tektonik Dalga",
         "VI": "Chiêu Giáng Sinh - Sóng Vỗ Đại Lục"
     },
@@ -2767,6 +3091,8 @@
         "PT": "Ataque Normal: Pontaria do Caçador",
         "RU": "Стиль котёнка",
         "TH": "โจมตีปกติ: Kätzlein Style",
+        "TH_1": "โจมตีปกติ: Kätzlein Style",
+        "TH_2": "",
         "TR": "Normal Saldırı: Kätzlein Tarzı",
         "VI": "Tấn Công Thường - Xạ Thuật Thợ Săn"
     },
@@ -2784,6 +3110,8 @@
         "PT": "Garra de Gato Gelada",
         "RU": "Морозные коготочки",
         "TH": "Icy Paws",
+        "TH_1": "",
+        "TH_2": "Icy Paws",
         "TR": "Buz Patisi",
         "VI": "Móng Mèo Lạnh Giá"
     },
@@ -2801,6 +3129,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2818,6 +3148,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -2835,6 +3167,8 @@
         "PT": "Coquetel Assassino",
         "RU": "Авторский коктейль",
         "TH": "Signature Mix",
+        "TH_1": "",
+        "TH_2": "Signature Mix",
         "TR": "Özel Karışım",
         "VI": "Đặc Chế Mãnh Liệt"
     },
@@ -2852,6 +3186,8 @@
         "PT": "Ataque Normal: Desgraça dos Demônios",
         "RU": "Искоренение зла",
         "TH": "โจมตีปกติ: Demonbane",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Demonbane",
         "TR": "Normal Saldırı: İblisboğan",
         "VI": "Tấn Công Thường - Bốn Cách Diệt Tà"
     },
@@ -2869,6 +3205,8 @@
         "PT": "Lâmina Espiritual - Geada de Chongyun",
         "RU": "Духовное лезвие: Холод Чунхуа",
         "TH": "Spirit Blade: Chonghua's Layered Frost",
+        "TH_1": "",
+        "TH_2": "Spirit Blade: Chonghua's Layered Frost",
         "TR": "Ruh Kılıcı: Chonghua Buz Katmanı",
         "VI": "Linh Đao - Sương Bạc Trùng Điệp"
     },
@@ -2886,6 +3224,8 @@
         "PT": "Lâmina Espiritual - Estrela Cadente",
         "RU": "Духовное лезвие: Падение с небес",
         "TH": "Spirit Blade: Cloud-Parting Star",
+        "TH_1": "",
+        "TH_2": "Spirit Blade: Cloud-Parting Star",
         "TR": "Ruh Kılıcı: Bulut Yaran Yıldız",
         "VI": "Linh Đao - Vân Khai Tinh Lạc"
     },
@@ -2903,6 +3243,8 @@
         "PT": "Ataque Normal: Destino Desencapado",
         "RU": "Круги на воде",
         "TH": "โจมตีปกติ: Ripple of Fate",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Ripple of Fate",
         "TR": "Normal Saldırı: Kader Dalgası",
         "VI": "Tấn Công Thường - Điểm Hóa Nhân Quả"
     },
@@ -2920,6 +3262,8 @@
         "PT": "Água Ilusória",
         "RU": "Отражение фатума",
         "TH": "Mirror Reflection of Doom",
+        "TH_1": "",
+        "TH_2": "Mirror Reflection of Doom",
         "TR": "Kıyamet Yansıması",
         "VI": "Ảo Vọng Dưới Nước"
     },
@@ -2937,6 +3281,8 @@
         "PT": "Vicissitude",
         "RU": "Иллюзорный поток",
         "TH": "Illusory Torrent",
+        "TH_1": "Illusory Torrent",
+        "TH_2": "",
         "TR": "Hayali Akıntı",
         "VI": "Dòng Chảy Ảo"
     },
@@ -2954,6 +3300,8 @@
         "PT": "Órbita Divina",
         "RU": "Звёздный фантазм",
         "TH": "Stellaris Phantasm",
+        "TH_1": "",
+        "TH_2": "Stellaris Phantasm",
         "TR": "Kaderin Yıldızı",
         "VI": "Quỹ Đạo Tinh Mệnh"
     },
@@ -2971,6 +3319,8 @@
         "PT": "Ataque Normal: Estilo de Yunlai",
         "RU": "Грозовое фехтование",
         "TH": "โจมตีปกติ: Yunlai Swordsmanship",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Yunlai Swordsmanship",
         "TR": "Normal Saldırı: Yunlai Kılıç Tekniği",
         "VI": "Tấn Công Thường - Vân Lai Kiếm Pháp"
     },
@@ -2988,6 +3338,8 @@
         "PT": "Restauração Estelar",
         "RU": "Возвращение звезды",
         "TH": "Stellar Restoration",
+        "TH_1": "Stellar Restoration",
+        "TH_2": "",
         "TR": "Yıldızların Düzeni",
         "VI": "Tinh Đẩu Quy Vị"
     },
@@ -3005,6 +3357,8 @@
         "PT": "Restauração Estelar",
         "RU": "Возвращение звезды",
         "TH": "Stellar Restoration",
+        "TH_1": "Stellar Restoration",
+        "TH_2": "",
         "TR": "Yıldızların Düzeni",
         "VI": "Tinh Đẩu Quy Vị"
     },
@@ -3022,6 +3376,8 @@
         "PT": "Passeio Celestial",
         "RU": "Меч небесного тракта",
         "TH": "Starward Sword",
+        "TH_1": "",
+        "TH_2": "Starward Sword",
         "TR": "Yıldız Çarpışması",
         "VI": "Tuần Du Thiên Nhai"
     },
@@ -3039,6 +3395,8 @@
         "PT": "Ataque Normal: Criação do Espírito do Vento",
         "RU": "Базовая эссенция ветра",
         "TH": "โจมตีปกติ: Wind Spirit Creation",
+        "TH_1": "โจมตีปกติ: Wind Spirit Creation",
+        "TH_2": "",
         "TR": "Normal Saldırı: Rüzgar Ruhu Saldırısı",
         "VI": "Tấn Công Thường - Gió Thần Sáng Tạo"
     },
@@ -3056,6 +3414,8 @@
         "PT": "Criação do Espírito do Vento: Experimento 6308",
         "RU": "Эксперимент №6308",
         "TH": "Astable Anemohypostasis Creation - 6308",
+        "TH_1": "",
+        "TH_2": "Astable Anemohypostasis Creation - 6308",
         "TR": "Dengesiz Rüzgar Hipostazı - Denek 6308",
         "VI": "Gió Thần Sáng Tạo 6308"
     },
@@ -3073,6 +3433,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -3090,6 +3452,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -3107,6 +3471,8 @@
         "PT": "Criação Proibida do Espírito do Vento: Isomórfico-75 Tipo II",
         "RU": "Запретно! Изомер 75 / Тип II",
         "TH": "Forbidden Creation - Isomer 75 / Type II",
+        "TH_1": "",
+        "TH_2": "Forbidden Creation - Isomer 75 / Type II",
         "TR": "Yasaklı İcat - İzomer 75 / Tip II",
         "VI": "Cấm-Gió Thần Sáng Tạo-75 Loại 2"
     },
@@ -3124,6 +3490,8 @@
         "PT": "Ataque Normal: Dança do Fogo",
         "RU": "Зажигательный танец",
         "TH": "โจมตีปกติ: Dance on Fire",
+        "TH_1": "โจมตีปกติ: Dance on Fire",
+        "TH_2": "",
         "TR": "Normal Saldırı: Ateşle Dans",
         "VI": "Tấn Công Thường - Viêm Vũ"
     },
@@ -3141,6 +3509,8 @@
         "PT": "Fervor Arrebatador",
         "RU": "Решительный жар",
         "TH": "Sweeping Fervor",
+        "TH_1": "",
+        "TH_2": "Sweeping Fervor",
         "TR": "Ver Coşkuyu",
         "VI": "Khuấy Động Nhiệt Huyết"
     },
@@ -3158,6 +3528,8 @@
         "PT": "Melodia da Rebelião",
         "RU": "Струны протеста",
         "TH": "Riff Revolution",
+        "TH_1": "Riff Revolution",
+        "TH_2": "",
         "TR": "Melodi Devrimi",
         "VI": "Cung Đàn Ngỗ Ngược"
     },
@@ -3175,6 +3547,8 @@
         "PT": "Ataque Normal: Lança Eclesiástica",
         "RU": "Копьё церкви",
         "TH": "โจมตีปกติ: Spear of the Church",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Spear of the Church",
         "TR": "Normal Saldırı: Kilisenin Mızrağı",
         "VI": "Tấn công thường - Thương Thuật Giáo Hội"
     },
@@ -3192,6 +3566,8 @@
         "PT": "Confissão Desoladora",
         "RU": "Казнящая исповедь",
         "TH": "Ravaging Confession",
+        "TH_1": "",
+        "TH_2": "Ravaging Confession",
         "TR": "Hiddetli İtiraf",
         "VI": "Lời Cáo Tội"
     },
@@ -3209,6 +3585,8 @@
         "PT": "Ritos de Terminação",
         "RU": "Обряд кончины",
         "TH": "Rites of Termination",
+        "TH_1": "",
+        "TH_2": "Rites of Termination",
         "TR": "Son Ayin",
         "VI": "Thánh Lễ Cuối Cùng"
     },
@@ -3226,6 +3604,8 @@
         "PT": "Ataque Normal: Lança Secreta de Wangsheng",
         "RU": "Скрытое копьё «Ваншэн»",
         "TH": "โจมตีปกติ: Secret Spear of Wangsheng",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Secret Spear of Wangsheng",
         "TR": "Normal Saldırı: Wangsheng'in Gizli Mızrağı",
         "VI": "Tấn Công Thường - Thương Pháp Bí Truyền Vãng Sinh"
     },
@@ -3243,6 +3623,8 @@
         "PT": "Guia do Além",
         "RU": "Путеводитель по загробной жизни",
         "TH": "Guide to Afterlife",
+        "TH_1": "",
+        "TH_2": "Guide to Afterlife",
         "TR": "Öbür Dünya Rehberi",
         "VI": "Điệp Dẫn Lai Sinh"
     },
@@ -3260,6 +3642,8 @@
         "PT": "Pacificadora de Espíritos",
         "RU": "Упокоение духов",
         "TH": "Spirit Soother",
+        "TH_1": "",
+        "TH_2": "Spirit Soother",
         "TR": "Ruh Terbiyecisi",
         "VI": "An Thần Bí Pháp"
     },
@@ -3277,6 +3661,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -3294,6 +3680,8 @@
         "PT": "Ataque Normal: Técnica da Espada de Garyuu",
         "RU": "Фехтовальный стиль Гарю",
         "TH": "โจมตีปกติ: Garyuu Bladework",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Garyuu Bladework",
         "TR": "Normal Saldırı: Garyuu Kılıç Tekniği",
         "VI": "Tấn Công Thường - Kiếm Thuật Garyuu"
     },
@@ -3311,6 +3699,8 @@
         "PT": "Chihayaburu",
         "RU": "Тихаяфуру",
         "TH": "Chihayaburu",
+        "TH_1": "",
+        "TH_2": "Chihayaburu",
         "TR": "Chihayaburu",
         "VI": "Chihayaburu"
     },
@@ -3328,6 +3718,8 @@
         "PT": "Chihayaburu",
         "RU": "Тихаяфуру",
         "TH": "Chihayaburu",
+        "TH_1": "Chihayaburu",
+        "TH_2": "",
         "TR": "Chihayaburu",
         "VI": "Chihayaburu"
     },
@@ -3345,6 +3737,8 @@
         "PT": "Ataque Imersivo - Ranzan Aéreo",
         "RU": "Атака в падении: Мидарэ рандзан",
         "TH": "การโจมตีพุ่งลงจากอากาศ - Midare Ranzan",
+        "TH_1": "",
+        "TH_2": "การโจมตีพุ่งลงจากอากาศ - Midare Ranzan",
         "TR": "Havadan Saldırı: Midare Ranzan",
         "VI": "Tấn Công Khi Đáp - Xua Tan Mây Mù"
     },
@@ -3362,6 +3756,8 @@
         "PT": "Lâmina de Kazuha",
         "RU": "Удар Кадзухи",
         "TH": "Kazuha Slash",
+        "TH_1": "Kazuha Slash",
+        "TH_2": "",
         "TR": "Bin Yaprak Darbesi",
         "VI": "Kazuha Nhất Đao Trảm"
     },
@@ -3379,6 +3775,8 @@
         "PT": "Ataque Normal: Selo Ardente",
         "RU": "Печать одобрения",
         "TH": "โจมตีปกติ: Seal of Approval",
+        "TH_1": "โจมตีปกติ: Seal of Approval",
+        "TH_2": "",
         "TR": "Normal Saldırı: Tasdik Mührü",
         "VI": "Tấn Công Thường - Hỏa Ấn"
     },
@@ -3396,6 +3794,8 @@
         "PT": "Édito Assinado",
         "RU": "Подписанный указ",
         "TH": "Signed Edict",
+        "TH_1": "",
+        "TH_2": "Signed Edict",
         "TR": "Kızıl Ferman",
         "VI": "Sắc Lệnh Đã Ký"
     },
@@ -3413,6 +3813,8 @@
         "PT": "Contrato Vinculativo",
         "RU": "По рукам",
         "TH": "Done Deal",
+        "TH_1": "",
+        "TH_2": "Done Deal",
         "TR": "Son Karar",
         "VI": "Khế Ước Đã Định"
     },
@@ -3430,6 +3832,8 @@
         "PT": "Ataque Normal: Pirotecnia",
         "RU": "Вспышка фейерверка",
         "TH": "โจมตีปกติ: Firework Flare-Up",
+        "TH_1": "โจมตีปกติ: Firework Flare-Up",
+        "TH_2": "",
         "TR": "Normal Saldırı: Havai Fişek Patlaması",
         "VI": "Tấn Công Thường - Khói Lửa Chiến Đấu"
     },
@@ -3447,6 +3851,8 @@
         "PT": "Dança de Fogo Niwabi",
         "RU": "Огненный танец Ниваби",
         "TH": "Niwabi Fire-Dance",
+        "TH_1": "",
+        "TH_2": "Niwabi Fire-Dance",
         "TR": "Niwabi Ateş Dansı",
         "VI": "Điệu Nhảy Niwabi Cháy Bỏng"
     },
@@ -3464,6 +3870,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -3481,6 +3889,8 @@
         "PT": "Saxifraga Ryuukin",
         "RU": "Камнеломка Рюкин",
         "TH": "Ryuukin Saxifrage",
+        "TH_1": "Ryuukin Saxifrage",
+        "TH_2": "",
         "TR": "Taşkıran Ryuukin",
         "VI": "Cỏ Ryuukin"
     },
@@ -3498,6 +3908,8 @@
         "PT": "Ataque Normal - Poder da Lança Veloz",
         "RU": "Копьё разрушения",
         "TH": "โจมตีปกติ: Swiftshatter Spear",
+        "TH_1": "โจมตีปกติ: Swiftshatter Spear",
+        "TH_2": "",
         "TR": "Normal Saldırı: Hızlı Mızrak Saldırısı",
         "VI": "Tấn Công Thường - Ngọn Thương Dũng Mãnh"
     },
@@ -3515,6 +3927,8 @@
         "PT": "Proteção das Chamas do Destino",
         "RU": "Пылающий покров",
         "TH": "Blazing Blessing",
+        "TH_1": "",
+        "TH_2": "Blazing Blessing",
         "TR": "Alevli Lütuf",
         "VI": "Liệt Hỏa Hộ Mệnh"
     },
@@ -3532,6 +3946,8 @@
         "PT": "Grande Armadura Flamejante",
         "RU": "Багровый оёрой",
         "TH": "Crimson Ooyoroi",
+        "TH_1": "Crimson Ooyoroi",
+        "TH_2": "",
         "TR": "Kızıl Ooyoroi",
         "VI": "Chiến Giáp Rực Cháy"
     },
@@ -3549,6 +3965,8 @@
         "PT": "Ataque Normal: Técnica da Espada de Favonius - Nobreza",
         "RU": "Фехтовальный стиль Фавония: Знать",
         "TH": "โจมตีปกติ: Favonius Bladework - Edel",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Favonius Bladework - Edel",
         "TR": "Normal Saldırı: Favonius Kılıç Tekniği - Edel",
         "VI": "Tấn Công Thường: Tây Phong Kiếm - Tông Thất"
     },
@@ -3566,6 +3984,8 @@
         "PT": "Vórtice Gelado",
         "RU": "Ледяной прибой",
         "TH": "Icetide Vortex",
+        "TH_1": "Icetide Vortex",
+        "TH_2": "",
         "TR": "Buz Dalgası Girdabı",
         "VI": "Lốc Xoáy Băng Hàn"
     },
@@ -3583,6 +4003,8 @@
         "PT": "Espada das Ondas Congeladas",
         "RU": "Сумеречный меч",
         "TH": "Glacial Illumination",
+        "TH_1": "Glacial Illumination",
+        "TH_2": "",
         "TR": "Buzul Aydınlık",
         "VI": "Thanh Kiếm Sóng Nước"
     },
@@ -3600,6 +4022,8 @@
         "PT": "Ataque Normal: Origem",
         "RU": "Исток",
         "TH": "โจมตีปกติ: Origin",
+        "TH_1": "โจมตีปกติ: Origin",
+        "TH_2": "",
         "TR": "Normal Saldırı: Köken",
         "VI": "Tấn Công Thường - Cội Nguồn"
     },
@@ -3617,6 +4041,8 @@
         "PT": "Milagre: Luz Maligna",
         "RU": "Превосходство: Зловещее знамение",
         "TH": "Transcendence: Baleful Omen",
+        "TH_1": "",
+        "TH_2": "Transcendence: Baleful Omen",
         "TR": "Bilinç Ötesi: Uğursuzluk Alameti",
         "VI": "Thần Biến - Ánh Chớp Tà Ác"
     },
@@ -3634,6 +4060,8 @@
         "PT": "Arte Secreta: Musou Shinsetsu",
         "RU": "Тайное искусство: Мусо синсэцу",
         "TH": "Secret Art: Musou Shinsetsu",
+        "TH_1": "",
+        "TH_2": "Secret Art: Musou Shinsetsu",
         "TR": "Gizli Sanat: Musou Shinsetsu",
         "VI": "Bí Kỹ - Mộng Tưởng Chân Thuyết"
     },
@@ -3651,6 +4079,8 @@
         "PT": "Ataque Normal: Lâmina de Ninja Shiyuumatsu-Ban",
         "RU": "Ниндзюцу Сюмацубан",
         "TH": "โจมตีปกติ: Shuumatsuban Ninja Blade",
+        "TH_1": "โจมตีปกติ: Shuumatsuban Ninja Blade",
+        "TH_2": "",
         "TR": "Normal Saldırı: Shuumatsuban Ninja Kılıcı",
         "VI": "Tấn Công Thường - Lưỡi Đao Ninja - Shuumatsuban"
     },
@@ -3668,6 +4098,8 @@
         "PT": "Arte Yoohoo: Ataque Fuuin",
         "RU": "Искусство Юху: Рывок Фуин",
         "TH": "Yoohoo Art: Fuuin Dash",
+        "TH_1": "",
+        "TH_2": "Yoohoo Art: Fuuin Dash",
         "TR": "Yoohoo Sanatı: Fuuin Koşusu",
         "VI": "Trường Phái Yoohoo - Fuuin Lăn Tròn"
     },
@@ -3685,6 +4117,8 @@
         "PT": "Arte Yoohoo: Ataque Fuuin",
         "RU": "Искусство Юху: Рывок Фуин",
         "TH": "Yoohoo Art: Fuuin Dash",
+        "TH_1": "Yoohoo Art: Fuuin Dash",
+        "TH_2": "",
         "TR": "Yoohoo Sanatı: Fuuin Koşusu",
         "VI": "Trường Phái Yoohoo - Fuuin Lăn Tròn"
     },
@@ -3702,6 +4136,8 @@
         "PT": "Arte Yoohoo: Agitação Mujina",
         "RU": "Искусство Юху: Сумасшествие Мудзина",
         "TH": "Yoohoo Art: Mujina Flurry",
+        "TH_1": "Yoohoo Art: Mujina Flurry",
+        "TH_2": "",
         "TR": "Yoohoo Sanatı: Mujina Karmaşası",
         "VI": "Trường Phái Yoohoo - Mujina Bối Rối"
     },
@@ -3719,6 +4155,8 @@
         "PT": "Ataque Normal: Forma da Água",
         "RU": "Форма воды",
         "TH": "โจมตีปกติ: The Shape of Water",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: The Shape of Water",
         "TR": "Normal Saldırı: Suyun Şekli",
         "VI": "Tấn Công Thường: Hình Dạng Nước Trong"
     },
@@ -3736,6 +4174,8 @@
         "PT": "Juramento Kurage",
         "RU": "Клятва курагэ",
         "TH": "Kurage's Oath",
+        "TH_1": "Kurage's Oath",
+        "TH_2": "",
         "TR": "Kurage Yemini",
         "VI": "Lời Thề Kurage"
     },
@@ -3753,6 +4193,8 @@
         "PT": "Cerimônia Kaijin",
         "RU": "Вознесение нереиды",
         "TH": "Nereid's Ascension",
+        "TH_1": "Nereid's Ascension",
+        "TH_2": "",
         "TR": "Nereid'in Yükselişi",
         "VI": "Nghi Lễ Nereid"
     },
@@ -3770,6 +4212,8 @@
         "PT": "Ataque Normal: Flechas de Garras Dilacerantes",
         "RU": "Оперение терзающего клыка",
         "TH": "โจมตีปกติ: Ripping Fang Fletching",
+        "TH_1": "โจมตีปกติ: Ripping Fang Fletching",
+        "TH_2": "",
         "TR": "Normal Saldırı: Canavar Dişi Oku",
         "VI": "Tấn Công Thường - Mũi Tên Cào Xé"
     },
@@ -3787,6 +4231,8 @@
         "PT": "Defesa Concentrada Inuzaka",
         "RU": "Всесторонняя защита Инудзаки",
         "TH": "Inuzaka All-Round Defense",
+        "TH_1": "",
+        "TH_2": "Inuzaka All-Round Defense",
         "TR": "Inuzaka Savunma Çemberi",
         "VI": "Trận Hình Phòng Thủ - Inuzaka"
     },
@@ -3804,6 +4250,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -3821,6 +4269,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -3838,6 +4288,8 @@
         "PT": "Juuga: Para a Vitória",
         "RU": "Дзюга: Вперёд к победе",
         "TH": "Juuga: Forward Unto Victory",
+        "TH_1": "Juuga: Forward Unto Victory",
+        "TH_2": "",
         "TR": "Juuga: Zafere Doğru",
         "VI": "Chiến Pháp Đột Kích - Juuga"
     },
@@ -3855,6 +4307,8 @@
         "PT": "Ataque Normal: Tiro com Arco Tengu",
         "RU": "Стрелковое искусство тэнгу",
         "TH": "โจมตีปกติ: Tengu Bowmanship",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Tengu Bowmanship",
         "TR": "Normal Saldırı: Tengu Okçuluğu",
         "VI": "Tấn Công Thường - Cung Thuật Tengu"
     },
@@ -3872,6 +4326,8 @@
         "PT": "Invocação da Tempestade Tengu",
         "RU": "Призыв грозы тэнгу",
         "TH": "Tengu Stormcall",
+        "TH_1": "",
+        "TH_2": "Tengu Stormcall",
         "TR": "Fırtına Habercisi Tengu",
         "VI": "Bão Sét Tengu"
     },
@@ -3889,6 +4345,8 @@
         "PT": "Manter Pressionado para Mirar com Kujou Sara",
         "RU": "九条裟罗长按瞄准",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -3906,6 +4364,8 @@
         "PT": "九条裟罗瞄准模式",
         "RU": "九条裟罗瞄准模式",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -3923,6 +4383,8 @@
         "PT": "Subjugação: Koukou Sendou",
         "RU": "Подчинение: Коко сэндо",
         "TH": "Subjugation: Koukou Sendou",
+        "TH_1": "Subjugation: Koukou Sendou",
+        "TH_2": "",
         "TR": "Fetih: Koukou Sendou",
         "VI": "Bí Thức - Koukou Sendou"
     },
@@ -3940,6 +4402,8 @@
         "PT": "Ataque Normal: Lenda do Combate",
         "RU": "Легенда бойцовского клуба",
         "TH": "โจมตีปกติ: Fight Club Legend",
+        "TH_1": "โจมตีปกติ: Fight Club Legend",
+        "TH_2": "",
         "TR": "Normal Saldırı: Dövüş Kulübü Efsanesi",
         "VI": "Tấn Công Thường - Huyền Thoại Đấm Nhau"
     },
@@ -3957,6 +4421,8 @@
         "PT": "Masatsu Zetsugi: Explosão Akaushi!",
         "RU": "Масацу дзэцуги: Взрыв акауси!",
         "TH": "Masatsu Zetsugi: Akaushi Burst!",
+        "TH_1": "Masatsu Zetsugi: Akaushi Burst!",
+        "TH_2": "",
         "TR": "Masatsu Zetsugi: Akaushi Patlaması!",
         "VI": "Tuyệt Kỹ Masatsu - Akaushi Công Phá!"
     },
@@ -3974,6 +4440,8 @@
         "PT": "Descendência Real: Contemplem, Itto o Maligno!",
         "RU": "Явление короля: Итто Жестокий!",
         "TH": "Royal Descent: Behold, Itto the Evil!",
+        "TH_1": "Royal Descent: Behold, Itto the Evil!",
+        "TH_2": "",
         "TR": "Belalı Oni Kral: Itto, Dünyaya Karşı!",
         "VI": "Siêu Cấp Quỷ Vương - Itto Giáng Lâm!"
     },
@@ -3991,6 +4459,8 @@
         "PT": "Ataque Normal: Kitsune Devora-pecados",
         "RU": "Пожирающая грехи кицунэ",
         "TH": "โจมตีปกติ: Spiritfox Sin-Eater",
+        "TH_1": "โจมตีปกติ: Spiritfox Sin-Eater",
+        "TH_2": "",
         "TR": "Normal Saldırı: Günah Yiyen Kitsune",
         "VI": "Tấn Công Thường - Hồ Linh Thực Tội Thức"
     },
@@ -4008,6 +4478,8 @@
         "PT": "Evocação Yakan: Sesshou Sakura",
         "RU": "Проклятие якан: Сакура сэссё",
         "TH": "Yakan Evocation: Sesshou Sakura",
+        "TH_1": "",
+        "TH_2": "Yakan Evocation: Sesshou Sakura",
         "TR": "Yako Çağrısı: Ölümcül Kiraz Çiçeği",
         "VI": "Thần Chú Yakan - Sesshou Sakura"
     },
@@ -4025,6 +4497,8 @@
         "PT": "Grande Arte Secreta: Tenko Kenshin",
         "RU": "Великое тайное искусство: Тэнко кэнсин",
         "TH": "Great Secret Art: Tenko Kenshin",
+        "TH_1": "",
+        "TH_2": "Great Secret Art: Tenko Kenshin",
         "TR": "Gizli Ulvi Büyü: Tenko Kenshin",
         "VI": "Đại Bí Pháp - Tenko Kenshin"
     },
@@ -4042,6 +4516,8 @@
         "PT": "Ataque Normal: Arte Marcial Fudou",
         "RU": "Боевой стиль Фудо",
         "TH": "โจมตีปกติ: Fudou Style Martial Arts",
+        "TH_1": "โจมตีปกติ: Fudou Style Martial Arts",
+        "TH_2": "",
         "TR": "Normal Saldırı: Fudou Tarzı Dövüş Sanatı",
         "VI": "Tấn Công Thường - Võ Thuật Fudou"
     },
@@ -4059,6 +4535,8 @@
         "PT": "Soco Cardíaco",
         "RU": "Убиение сердца",
         "TH": "Heartstopper Strike",
+        "TH_1": "",
+        "TH_2": "Heartstopper Strike",
         "TR": "Nabız Kesen Vuruş",
         "VI": "Lục Tâm Quyền"
     },
@@ -4076,6 +4554,8 @@
         "PT": "Chute Turbilhão",
         "RU": "Ураганный удар",
         "TH": "Windmuster Kick",
+        "TH_1": "",
+        "TH_2": "Windmuster Kick",
         "TR": "Yelkapan Tekmesi",
         "VI": "Tụ Phong Cước"
     },
@@ -4093,6 +4573,8 @@
         "PT": "Lâmina Raikage",
         "RU": "Клинок молнии",
         "TH": "Lightning Blade",
+        "TH_1": "",
+        "TH_2": "Lightning Blade",
         "TR": "Yıldırım Kılıcı",
         "VI": "Lôi Ảnh Kiếm"
     },
@@ -4110,6 +4592,8 @@
         "PT": "Rugido do Trovão",
         "RU": "Раскаты грома",
         "TH": "Bellowing Thunder",
+        "TH_1": "Bellowing Thunder",
+        "TH_2": "",
         "TR": "Gürleyen Yıldırım",
         "VI": "Xung Điện Sấm Rền"
     },
@@ -4127,6 +4611,8 @@
         "PT": "Ataque Normal: Flecha Oculta",
         "RU": "Незаметная стрела",
         "TH": "โจมตีปกติ: Stealthy Bowshot",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Stealthy Bowshot",
         "TR": "Normal Saldırı: Gizli Ok Saldırısı",
         "VI": "Tấn Công Thường - Mũi Tên Lén Lút"
     },
@@ -4144,6 +4630,8 @@
         "PT": "Rede da Vida Salvadora",
         "RU": "Переплетённая нить жизни",
         "TH": "Lingering Lifeline",
+        "TH_1": "",
+        "TH_2": "Lingering Lifeline",
         "TR": "Uzun Yaşam Hattı",
         "VI": "Dây Sinh Mệnh Quanh Quẩn"
     },
@@ -4161,6 +4649,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -4178,6 +4668,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -4195,6 +4687,8 @@
         "PT": "Dado das Profundezas Claras",
         "RU": "Изысканные игральные кости",
         "TH": "Depth-Clarion Dice",
+        "TH_1": "Depth-Clarion Dice",
+        "TH_2": "",
         "TR": "Berrak Zar",
         "VI": "Xúc Xắc Toan Tính"
     },
@@ -4212,6 +4706,8 @@
         "PT": "Ataque Normal: Estilete",
         "RU": "Нарезка коробок",
         "TH": "โจมตีปกติ: Boxcutter",
+        "TH_1": "โจมตีปกติ: Boxcutter",
+        "TH_2": "",
         "TR": "Normal Saldırı: Maket Bıçağı",
         "VI": "Tấn Công Thường - Cào Rách Hộp"
     },
@@ -4229,6 +4725,8 @@
         "PT": "Chute Miauteoro",
         "RU": "Мяутеоритный удар",
         "TH": "Meow-teor Kick",
+        "TH_1": "",
+        "TH_2": "Meow-teor Kick",
         "TR": "Miyav Jitsu",
         "VI": "Mèo Tung Cước"
     },
@@ -4246,6 +4744,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -4263,6 +4763,8 @@
         "PT": "Arte Secreta: Entrega Urgente",
         "RU": "Неожиданное отправление",
         "TH": "Secret Art: Surprise Dispatch",
+        "TH_1": "Secret Art: Surprise Dispatch",
+        "TH_2": "",
         "TR": "Gizli Sanat: Sürpriz Dağıtım",
         "VI": "Bí Pháp - Chuyển Phát Đặc Biệt"
     },
@@ -4280,6 +4782,8 @@
         "PT": "Ataque Normal: Disparos Rápidos",
         "RU": "Скоростная стрельба",
         "TH": "โจมตีปกติ: Rapid Fire",
+        "TH_1": "โจมตีปกติ: Rapid Fire",
+        "TH_2": "",
         "TR": "Normal Saldırı: Seri Ok Atışı",
         "VI": "Tấn Công Thường - Bắn Chớp Nhoáng"
     },
@@ -4297,6 +4801,8 @@
         "PT": "Natureza Gélida",
         "RU": "Ледяная пустошь",
         "TH": "Frozen Wilds",
+        "TH_1": "Frozen Wilds",
+        "TH_2": "",
         "TR": "Donuk Topraklar",
         "VI": "Băng Giá Hoang Dã"
     },
@@ -4314,6 +4820,8 @@
         "PT": "Disparo com Mira de Aloy",
         "RU": "埃洛伊瞄准射击",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -4331,6 +4839,8 @@
         "PT": "",
         "RU": "埃洛伊普通攻击",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -4348,6 +4858,8 @@
         "PT": "Ataque Normal: Perfuradora do Amanhecer",
         "RU": "Пронзая звёзды",
         "TH": "โจมตีปกติ: Dawnstar Piercer",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Dawnstar Piercer",
         "TR": "Normal Saldırı: Şafak Yıldızı Mızrağı",
         "VI": "Tấn Công Thường - Đạp Thần Nhiếp Đấu"
     },
@@ -4365,6 +4877,8 @@
         "PT": "Invocação Espiritual",
         "RU": "Призыв духа",
         "TH": "Spring Spirit Summoning",
+        "TH_1": "Spring Spirit Summoning",
+        "TH_2": "",
         "TR": "Ruha Çağrı",
         "VI": "Triệu Tướng Dịch Chú"
     },
@@ -4382,6 +4896,8 @@
         "PT": "Encantamento da Donzela Divina",
         "RU": "Таинство освобождения",
         "TH": "Divine Maiden's Deliverance",
+        "TH_1": "",
+        "TH_2": "Divine Maiden's Deliverance",
         "TR": "Kutsal Kadının Hükmü",
         "VI": "Thần Nữ Khiển Linh Quyết"
     },
@@ -4399,6 +4915,8 @@
         "PT": "Profecias do Alvorecer",
         "RU": "Пророчества рассвета",
         "TH": "Prophecies of Dawn",
+        "TH_1": "",
+        "TH_2": "Prophecies of Dawn",
         "TR": "Şafak Kehanetleri",
         "VI": "Lời Tiên Tri Ánh Sáng"
     },
@@ -4416,6 +4934,8 @@
         "PT": "Ataque Normal: Golpe das Nuvens",
         "RU": "Облачный удар",
         "TH": "โจมตีปกติ: Cloud-Grazing Strike",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Cloud-Grazing Strike",
         "TR": "Normal Saldırı: Bulutları Dağıtan Vuruş",
         "VI": "Tấn Công Thường - Phất Vân Xuất Thủ"
     },
@@ -4433,6 +4953,8 @@
         "PT": "Abertura Deslumbrante",
         "RU": "Вихревое представление",
         "TH": "Opening Flourish",
+        "TH_1": "",
+        "TH_2": "Opening Flourish",
         "TR": "Gösterişli Açılış",
         "VI": "Toàn Vân Khai Tương"
     },
@@ -4450,6 +4972,8 @@
         "PT": "Bandeira Quebra-Rochas",
         "RU": "Стяг разрушителя скал",
         "TH": "Cliffbreaker's Banner",
+        "TH_1": "Cliffbreaker's Banner",
+        "TH_2": "",
         "TR": "Uçurum Yaran Sancak",
         "VI": "Phá Chướng Kiến Tinh Nghi"
     },
@@ -4467,6 +4991,8 @@
         "PT": "Ataque Normal: Lâmina Escondida de Shinobu",
         "RU": "Теневой меч Синобу",
         "TH": "โจมตีปกติ: Shinobu's Shadowsword",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Shinobu's Shadowsword",
         "TR": "Normal Saldırı: Shinobu'nun Gölge Kılıcı",
         "VI": "Tấn Công Thường - Lưỡi Kiếm Shinobu"
     },
@@ -4484,6 +5010,8 @@
         "PT": "Anel Santificador",
         "RU": "Освящающее кольцо",
         "TH": "Sanctifying Ring",
+        "TH_1": "",
+        "TH_2": "Sanctifying Ring",
         "TR": "Kutsal Çember",
         "VI": "Vòng Cỏ Sấm Thánh Hóa"
     },
@@ -4501,6 +5029,8 @@
         "PT": "Ritual Semeador Narukami",
         "RU": "Обряд Гёэй Наруками Карияма",
         "TH": "Gyoei Narukami Kariyama Rite",
+        "TH_1": "Gyoei Narukami Kariyama Rite",
+        "TH_2": "",
         "TR": "Gyoei Narukami Kariyama Ayini",
         "VI": "Nghi Lễ Gyoei Narukami Kariyama"
     },
@@ -4518,6 +5048,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -4535,6 +5067,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -4552,6 +5086,8 @@
         "PT": "Ataque Normal: Arte Kamisato - Giro",
         "RU": "Искусство Камисато: Маробаси",
         "TH": "โจมตีปกติ: Kamisato Art - Marobashi",
+        "TH_1": "โจมตีปกติ: Kamisato Art - Marobashi",
+        "TH_2": "",
         "TR": "Normal Saldırı: Kamisato Sanatı - Marobashi",
         "VI": "Tấn Công Thường - Trường Phái Kamisato: Marobashi"
     },
@@ -4569,6 +5105,8 @@
         "PT": "Arte Kamisato: Beleza Refletida",
         "RU": "Искусство Камисато: Кёка",
         "TH": "Kamisato Art: Kyouka",
+        "TH_1": "",
+        "TH_2": "Kamisato Art: Kyouka",
         "TR": "Kamisato Sanatı: Kyouka",
         "VI": "Trường Phái Kamisato - Kyouka"
     },
@@ -4586,6 +5124,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -4603,6 +5143,8 @@
         "PT": "Arte Kamisato: Jardim Aquático",
         "RU": "Искусство Камисато: Суйю",
         "TH": "Kamisato Art: Suiyuu",
+        "TH_1": "Kamisato Art: Suiyuu",
+        "TH_2": "",
         "TR": "Kamisato Sanatı: Suiyuu",
         "VI": "Trường Phái Kamisato - Suiyuu"
     },
@@ -4620,6 +5162,8 @@
         "PT": "Ataque Normal: Homenagem ao Tiro com Arco",
         "RU": "Лук молельщицы",
         "TH": "โจมตีปกติ: Supplicant's Bowmanship",
+        "TH_1": "โจมตีปกติ: Supplicant's Bowmanship",
+        "TH_2": "",
         "TR": "Normal Saldırı: Yakarışçının Okçuluğu",
         "VI": "Tấn Công Thường - Mũi Tên Chúc Tụng"
     },
@@ -4637,6 +5181,8 @@
         "PT": "Carícia das Flores",
         "RU": "Сметающие цветы",
         "TH": "Floral Brush",
+        "TH_1": "Floral Brush",
+        "TH_2": "",
         "TR": "Doğa Temizliği",
         "VI": "Xua Hoa Quét Lá"
     },
@@ -4654,6 +5200,8 @@
         "PT": "Segredo Miauvilhoso",
         "RU": "Кошачье сокровище",
         "TH": "Trump-Card Kitty",
+        "TH_1": "",
+        "TH_2": "Trump-Card Kitty",
         "TR": "Kedicik Kozu",
         "VI": "Báu Vật Meo Meo"
     },
@@ -4671,6 +5219,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -4688,6 +5238,8 @@
         "PT": "Ataque Normal: Dança de Espadas Fantástica (Modificada)",
         "RU": "Чарующий танец мечей",
         "TH": "โจมตีปกติ: Marvelous Sword-Dance (Modified)",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Marvelous Sword-Dance (Modified)",
         "TR": "Normal Saldırı: Muhteşem Kılıç Dansı (Değiştirildi)",
         "VI": "Tấn Công Thường - Kiếm Vũ Kỳ Ảo (Cải Tiến)"
     },
@@ -4705,6 +5257,8 @@
         "PT": "Lâmpada da Proteção: Canhão Apaziguador",
         "RU": "Лампа усмирения духов: Устраняющая проблемы пушка",
         "TH": "Spirit-Warding Lamp: Troubleshooter Cannon",
+        "TH_1": "Spirit-Warding Lamp: Troubleshooter Cannon",
+        "TH_2": "",
         "TR": "Ruh Koruma Lambası: Sorun Giderici Top",
         "VI": "Đèn Trấn Linh - Pháo Giải Trừ Phiền Não"
     },
@@ -4722,6 +5276,8 @@
         "PT": "Meticulosidade de Alcazarzaray",
         "RU": "Дотошность Алькасар-сарая",
         "TH": "Alcazarzaray's Exactitude",
+        "TH_1": "",
+        "TH_2": "Alcazarzaray's Exactitude",
         "TR": "Alkazar'ın Kusursuzluğu",
         "VI": "Alcazarzaray Tinh Xảo"
     },
@@ -4739,6 +5295,8 @@
         "PT": "Ataque Normal: Rompedor de Barreiras Khanda",
         "RU": "Крушащая преграды кханда",
         "TH": "โจมตีปกติ: Khanda Barrier-Buster",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Khanda Barrier-Buster",
         "TR": "Normal Saldırı: Khanda Bariyer Kırıcı",
         "VI": "Tấn Công Thường - Phá Bỏ Chướng Ngại"
     },
@@ -4756,6 +5314,8 @@
         "PT": "Mina Vijnana-Phala",
         "RU": "Мина виджняны-пхалы",
         "TH": "Vijnana-Phala Mine",
+        "TH_1": "Vijnana-Phala Mine",
+        "TH_2": "",
         "TR": "Vijnana-Phala Mayını",
         "VI": "Hạt Giống Vijnana-Phala"
     },
@@ -4773,6 +5333,8 @@
         "PT": "Manter pressionado/Modo de Mira de Tighnari",
         "RU": "Удерживание / Прицельная стрельба Тигнари",
         "TH": "Tighnari กดค้าง/โหมดเล็ง",
+        "TH_1": "Tighnari กดค้าง/โหมดเล็ง",
+        "TH_2": "",
         "TR": "Tighnari Basılı Tutma/Nişan Alma Modu",
         "VI": "Chế Độ Nhấn Giữ/Ngắm Bắn Tighnari"
     },
@@ -4790,6 +5352,8 @@
         "PT": "Flecha Enraizadora Artificial",
         "RU": "Стрела-лиана жизни",
         "TH": "Fashioner's Tanglevine Shaft",
+        "TH_1": "Fashioner's Tanglevine Shaft",
+        "TH_2": "",
         "TR": "Serseri Sarmaşık Ok",
         "VI": "Dây Leo Sinh Trưởng"
     },
@@ -4807,6 +5371,8 @@
         "PT": "Ataque Normal: Dança da Meia-Lua",
         "RU": "Танец шамшира",
         "TH": "โจมตีปกติ: Dance of Samser",
+        "TH_1": "โจมตีปกติ: Dance of Samser",
+        "TH_2": "",
         "TR": "Normal Saldırı: Samser Dansı",
         "VI": "Tấn Công Thường - Vũ Điệu Samser"
     },
@@ -4824,6 +5390,8 @@
         "PT": "Dança dos Sete Reinos",
         "RU": "Танец Хафткаршвар",
         "TH": "Dance of Haftkarsvar",
+        "TH_1": "",
+        "TH_2": "Dance of Haftkarsvar",
         "TR": "Haftkarsvar Dansı",
         "VI": "Vũ Điệu Haftkarsvar"
     },
@@ -4841,6 +5409,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -4858,6 +5428,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -4875,6 +5447,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -4892,6 +5466,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -4909,6 +5485,8 @@
         "PT": "Dança da Lótus: Nascente Longínqua Onírica",
         "RU": "Танец Абзендеги: Далёкие мечты, внемлющий ручей",
         "TH": "Dance of Abzendegi: Distant Dreams, Listening Spring",
+        "TH_1": "",
+        "TH_2": "Dance of Abzendegi: Distant Dreams, Listening Spring",
         "TR": "Abzendegi Dansı: Uzak Düşler, Pınarların Sesi",
         "VI": "Vũ Điệu Abzendegi - Viễn Mộng Linh Tuyền"
     },
@@ -4926,6 +5504,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -4943,6 +5523,8 @@
         "PT": "Ataque Normal: Lança da Invocação",
         "RU": "Копьё призывателя",
         "TH": "โจมตีปกติ: Invoker's Spear",
+        "TH_1": "โจมตีปกติ: Invoker's Spear",
+        "TH_2": "",
         "TR": "Normal Saldırı: Çağrı Mızrağı",
         "VI": "Tấn Công Thường - Thất Thánh Thương Thuật"
     },
@@ -4960,6 +5542,8 @@
         "PT": "Ritual Secreto: Travessia Abissal",
         "RU": "Тайный обряд: Переправляющий души",
         "TH": "Secret Rite: Chasmic Soulfarer",
+        "TH_1": "",
+        "TH_2": "Secret Rite: Chasmic Soulfarer",
         "TR": "Saklı Ayin: Ahir Rehberi",
         "VI": "Nghi Thức Bí Ẩn - Dẫn Hồn Đáy Vực"
     },
@@ -4977,6 +5561,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -4994,6 +5580,8 @@
         "PT": "Ritual Sagrado: Agilidade Lupina",
         "RU": "Священный обряд: Проворство шакала",
         "TH": "Sacred Rite: Wolf's Swiftness",
+        "TH_1": "Sacred Rite: Wolf's Swiftness",
+        "TH_2": "",
         "TR": "Kutsal Ayin: Kurt Çevikliği",
         "VI": "Nghi Thức Thần Thánh - Nhanh Như Sói"
     },
@@ -5011,6 +5599,8 @@
         "PT": "Ataque Normal: Lança Reluzente - Postura Guardiã",
         "RU": "Сверкающее копьё - Оборона",
         "TH": "โจมตีปกติ: Gleaming Spear - Guardian Stance",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Gleaming Spear - Guardian Stance",
         "TR": "Normal Saldırı: Işıltılı Mızrak - Muhafız Duruşu",
         "VI": "Tấn Công Thường - Thương Thuật Lấp Lánh - Thế Thủ"
     },
@@ -5028,6 +5618,8 @@
         "PT": "Ritual Sagrado: Garça Guardiã",
         "RU": "Священный обряд: Обитель цапли",
         "TH": "Sacred Rite: Heron's Sanctum",
+        "TH_1": "",
+        "TH_2": "Sacred Rite: Heron's Sanctum",
         "TR": "Kutsal Ayin: Balıkçıl Kalkanı",
         "VI": "Nghi Thức Thần Thánh - Vạc Trời Bảo Hộ"
     },
@@ -5045,6 +5637,8 @@
         "PT": "Ritual Sagrado: Maré dos Alvéolas",
         "RU": "Священный обряд: Прилив трясогузки",
         "TH": "Sacred Rite: Wagtail's Tide",
+        "TH_1": "",
+        "TH_2": "Sacred Rite: Wagtail's Tide",
         "TR": "Kutsal Ayin: Kuyruksallayan Dalgası",
         "VI": "Nghi Thức Thần Thánh - Thủy Triều Chìa Vôi"
     },
@@ -5062,6 +5656,8 @@
         "PT": "Ataque Normal: Akara",
         "RU": "Акара",
         "TH": "โจมตีปกติ: Akara",
+        "TH_1": "โจมตีปกติ: Akara",
+        "TH_2": "",
         "TR": "Normal Saldırı: Akara",
         "VI": "Tấn Công Thường - Akara"
     },
@@ -5079,6 +5675,8 @@
         "PT": "Esquemas Universais",
         "RU": "Пелена знаний",
         "TH": "All Schemes to Know",
+        "TH_1": "",
+        "TH_2": "All Schemes to Know",
         "TR": "Tüm Planları Bilen",
         "VI": "Lắng Nghe Thế Gian"
     },
@@ -5096,6 +5694,8 @@
         "PT": "Coração Ilusório",
         "RU": "Призрачное сердце",
         "TH": "Illusory Heart",
+        "TH_1": "Illusory Heart",
+        "TH_2": "",
         "TR": "Hayali Kalp",
         "VI": "Ảo Ảnh Tâm Can"
     },
@@ -5113,6 +5713,8 @@
         "PT": "Ataque Normal: Espada do Caminho Radiante",
         "RU": "Меч сияющей тропы",
         "TH": "โจมตีปกติ: Sword of the Radiant Path",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Sword of the Radiant Path",
         "TR": "Normal Saldırı: Işıltılı Yolun Kılıcı",
         "VI": "Tấn Công Thường - Kiếm Bức Xạ"
     },
@@ -5130,6 +5732,8 @@
         "PT": "Noites Solenes",
         "RU": "Ночи почтенного сосредоточения",
         "TH": "Nights of Formal Focus",
+        "TH_1": "Nights of Formal Focus",
+        "TH_2": "",
         "TR": "Odaklanma Gecesi",
         "VI": "Đêm Ngon Giấc"
     },
@@ -5147,6 +5751,8 @@
         "PT": "Sonho das Correntes Estelares",
         "RU": "Сон колыбели звёзд",
         "TH": "Dream of the Star-Stream Shaker",
+        "TH_1": "Dream of the Star-Stream Shaker",
+        "TH_2": "",
         "TR": "Dağılan Yıldız Akışı Rüyası",
         "VI": "Giấc Mộng Giường Ánh Sao"
     },
@@ -5164,6 +5770,8 @@
         "PT": "Ataque Normal: Tocar da Bandeira Trêmula",
         "RU": "Юбан мэйгэн",
         "TH": "โจมตีปกติ: Yuuban Meigen",
+        "TH_1": "โจมตีปกติ: Yuuban Meigen",
+        "TH_2": "",
         "TR": "Normal Saldırı: Yuuban Meigen",
         "VI": "Tấn Công Thường - Cung Đàn Lay Chiến Kỳ"
     },
@@ -5181,6 +5789,8 @@
         "PT": "Pluma Ilustrada: Canção Graciosa",
         "RU": "Ханэга: Песнь ветра",
         "TH": "Hanega: Song of the Wind",
+        "TH_1": "Hanega: Song of the Wind",
+        "TH_2": "",
         "TR": "Hanega: Rüzgar Şarkısı",
         "VI": "Hanega - Hùng Ca Gió Thoảng"
     },
@@ -5198,6 +5808,8 @@
         "PT": "Kyogen: Cinco Atos",
         "RU": "Кёгэн: Пять церемониальных актов",
         "TH": "Kyougen: Five Ceremonial Plays",
+        "TH_1": "",
+        "TH_2": "Kyougen: Five Ceremonial Plays",
         "TR": "Kyougen: Beşli Merasim Oyunu",
         "VI": "Kyougen - Thức Lạc Ngũ Phiên"
     },
@@ -5215,6 +5827,8 @@
         "PT": "Kyogen: Cinco Atos",
         "RU": "Кёгэн: Пять церемониальных актов",
         "TH": "Kyougen: Five Ceremonial Plays",
+        "TH_1": "",
+        "TH_2": "Kyougen: Five Ceremonial Plays",
         "TR": "Kyougen: Beşli Merasim Oyunu",
         "VI": "Kyougen - Thức Lạc Ngũ Phiên"
     },
@@ -5232,6 +5846,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -5249,6 +5865,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -5266,6 +5884,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -5283,6 +5903,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -5300,6 +5922,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -5317,6 +5941,8 @@
         "PT": "Ataque Normal: Disparo com Reviravoltas",
         "RU": "Парфянский выстрел",
         "TH": "โจมตีปกติ: Parthian Shot",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Parthian Shot",
         "TR": "Normal Saldırı: Girdap Atışı",
         "VI": "Tấn Công Thường - Tiễn Thuật Parthian"
     },
@@ -5334,6 +5960,8 @@
         "PT": "Reino do Vento de Nasamjnin",
         "RU": "Царство ветров насамджнин",
         "TH": "Wind Realm of Nasamjnin",
+        "TH_1": "Wind Realm of Nasamjnin",
+        "TH_2": "",
         "TR": "Nasamjnin Rüzgar Diyarı",
         "VI": "Phi Tưởng Phong Thiên"
     },
@@ -5351,6 +5979,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -5368,6 +5998,8 @@
         "PT": "Caminhos Secretos do Vento",
         "RU": "Тайные тропы ветров",
         "TH": "The Wind's Secret Ways",
+        "TH_1": "The Wind's Secret Ways",
+        "TH_2": "",
         "TR": "Rüzgarın Gizli Yolları",
         "VI": "Lối Đi Riêng Của Gió"
     },
@@ -5385,6 +6017,8 @@
         "PT": "Ataque Normal: Lança Vorpal",
         "RU": "Вращающееся копьё",
         "TH": "โจมตีปกติ: Toss 'N' Turn Spear",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Toss 'N' Turn Spear",
         "TR": "Normal Saldırı: Fırlat ve Mızrakla",
         "VI": "Tấn Công Thường - Điên Đảo Liên Hoàn Thương"
     },
@@ -5402,6 +6036,8 @@
         "PT": "Rabanete das Nuvens",
         "RU": "Небесное скопление редьки",
         "TH": "Raphanus Sky Cluster",
+        "TH_1": "",
+        "TH_2": "Raphanus Sky Cluster",
         "TR": "Kızıl Gök Turpu",
         "VI": "Máy Ném Củ Cải"
     },
@@ -5419,6 +6055,8 @@
         "PT": "Descida da Lua de Jade",
         "RU": "Сошествие лунной яшмы",
         "TH": "Moonjade Descent",
+        "TH_1": "Moonjade Descent",
+        "TH_2": "",
         "TR": "Ay Yeşiminin İnişi",
         "VI": "Mặt Trăng Giáng Ngọc"
     },
@@ -5436,6 +6074,8 @@
         "PT": "Ataque Normal: Método Investigativo Reverso",
         "RU": "Абдуктивная аргументация",
         "TH": "โจมตีปกติ: Abductive Reasoning",
+        "TH_1": "โจมตีปกติ: Abductive Reasoning",
+        "TH_2": "",
         "TR": "Normal Saldırı: Sürükleyici Tartışma",
         "VI": "Tấn Công Thường - Suy Luận Hồi Tố"
     },
@@ -5453,6 +6093,8 @@
         "PT": "Entendimento Mútuo: Representação do Conhecimento",
         "RU": "Универсалия: Совершенствование формы",
         "TH": "Universality: An Elaboration on Form",
+        "TH_1": "",
+        "TH_2": "Universality: An Elaboration on Form",
         "TR": "Evrensellik: Ayna Teorisi",
         "VI": "Phổ Quát - Soạn Thảo Theo Mẫu"
     },
@@ -5470,6 +6112,8 @@
         "PT": "Alienação: Restrição da Ilustração",
         "RU": "Особое поле: Взаимосвязь феноменов",
         "TH": "Particular Field: Fetters of Phenomena",
+        "TH_1": "Particular Field: Fetters of Phenomena",
+        "TH_2": "",
         "TR": "Bağlam Alanı: Görüntü Zinciri",
         "VI": "Khu Vực - Xiềng Xích Cảnh Tượng"
     },
@@ -5487,6 +6131,8 @@
         "PT": "Ataque Normal: Técnica da Espada Dourada",
         "RU": "Нападение песчаной бури",
         "TH": "โจมตีปกติ: Sandstorm Assault",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Sandstorm Assault",
         "TR": "Normal Saldırı: Kum Fırtınası Saldırısı",
         "VI": "Tấn Công Thường - Kiếm Thuật Quét Vàng"
     },
@@ -5504,6 +6150,8 @@
         "PT": "Inferno Derretido",
         "RU": "Расплавленное пекло",
         "TH": "Molten Inferno",
+        "TH_1": "Molten Inferno",
+        "TH_2": "",
         "TR": "Ateşten Kafes",
         "VI": "Địa Ngục Nóng Chảy"
     },
@@ -5521,6 +6169,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -5538,6 +6188,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -5555,6 +6207,8 @@
         "PT": "Mordida da Leoa",
         "RU": "Клыки львицы",
         "TH": "Leonine Bite",
+        "TH_1": "",
+        "TH_2": "Leonine Bite",
         "TR": "Aslan Isırığı",
         "VI": "Sư Tử Lửa Ngấu Nghiến"
     },
@@ -5572,6 +6226,8 @@
         "PT": "Ataque Normal: Lança de Favonius — Ponto de Passagem",
         "RU": "Копьё Фавония: Проход стрелы",
         "TH": "โจมตีปกติ: Spear of Favonius - Arrow's Passage",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Spear of Favonius - Arrow's Passage",
         "TR": "Normal Saldırı: Favonius Mızrağı - Ok Geçişi",
         "VI": "Tấn Công Thường - Tây Phong Thương Thuật - Kế Thừa"
     },
@@ -5589,6 +6245,8 @@
         "PT": "Redemoinho Estelar Gelado",
         "RU": "Вихрь звёздного инея",
         "TH": "Starfrost Swirl",
+        "TH_1": "",
+        "TH_2": "Starfrost Swirl",
         "TR": "Kırağı Girdabı",
         "VI": "Sao Băng Lưu Chuyển"
     },
@@ -5606,6 +6264,8 @@
         "PT": "Canção da Pena do Céu",
         "RU": "Песнь небесного пера",
         "TH": "Skyfeather Song",
+        "TH_1": "Skyfeather Song",
+        "TH_2": "",
         "TR": "Göktüyü Şarkısı",
         "VI": "Lông Vũ Chúc Tụng"
     },
@@ -5623,6 +6283,8 @@
         "PT": "Ataque Normal: Configuração Esquemática",
         "RU": "Схематическая настройка",
         "TH": "โจมตีปกติ: Schematic Setup",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Schematic Setup",
         "TR": "Normal Saldırı: İzdüşüm Düzlemi",
         "VI": "Tấn Công Thường - Thiết Lập Lực Quay"
     },
@@ -5640,6 +6302,8 @@
         "PT": "Genialidade Artística",
         "RU": "Творческое мастерство",
         "TH": "Artistic Ingenuity",
+        "TH_1": "Artistic Ingenuity",
+        "TH_2": "",
         "TR": "Sanatsal Marifet",
         "VI": "Nghệ Thuật Tinh Tế"
     },
@@ -5657,6 +6321,8 @@
         "PT": "Palácio Resplandecente",
         "RU": "Расписной купол",
         "TH": "Painted Dome",
+        "TH_1": "",
+        "TH_2": "Painted Dome",
         "TR": "Boyalı Kubbe",
         "VI": "Mái Vòm Rực Rỡ"
     },
@@ -5674,6 +6340,8 @@
         "PT": "Ataque Normal: Acupuntura Dourada",
         "RU": "Классика иглоукалывания",
         "TH": "โจมตีปกติ: The Classics of Acupuncture",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: The Classics of Acupuncture",
         "TR": "Normal Saldırı: Altın Akupunktur İğneleri",
         "VI": "Tấn Công Thường - Châm Cứu Mạ Vàng"
     },
@@ -5691,6 +6359,8 @@
         "PT": "Diagnóstico Universal",
         "RU": "Универсальная диагностика",
         "TH": "Universal Diagnosis",
+        "TH_1": "Universal Diagnosis",
+        "TH_2": "",
         "TR": "Kapsamlı Teşhis",
         "VI": "Chẩn Đoán Phổ Quát"
     },
@@ -5708,6 +6378,8 @@
         "PT": "Cura Holística",
         "RU": "Целостное восстановление",
         "TH": "Holistic Revivification",
+        "TH_1": "Holistic Revivification",
+        "TH_2": "",
         "TR": "Bütüncül İyileştirme",
         "VI": "Trị Liệu Toàn Thư"
     },
@@ -5725,6 +6397,8 @@
         "PT": "Ataque Normal: Rapieira Veloz",
         "RU": "Стремительная церемониальная рапира",
         "TH": "โจมตีปกติ: Rapid Ritesword",
+        "TH_1": "โจมตีปกติ: Rapid Ritesword",
+        "TH_2": "",
         "TR": "Normal Saldırı: Seri Tören Kılıcı",
         "VI": "Tấn Công Thường - Nghi Thức Tốc Hành"
     },
@@ -5742,6 +6416,8 @@
         "PT": "Barreira das Sombras",
         "RU": "Таинственный трюк с исчезновением",
         "TH": "Enigmatic Feint",
+        "TH_1": "Enigmatic Feint",
+        "TH_2": "",
         "TR": "Gizemli Aldatmaca",
         "VI": "Thủ Thuật Che Mắt"
     },
@@ -5759,6 +6435,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -5776,6 +6454,8 @@
         "PT": "Magia: Transformação Surpreendente",
         "RU": "Фокус: Удивительное превращение",
         "TH": "Magic Trick: Astonishing Shift",
+        "TH_1": "Magic Trick: Astonishing Shift",
+        "TH_2": "",
         "TR": "Sihir Numarası: Şaşırtıcı Değişim",
         "VI": "Ảo Thuật - Biến Đổi Bất Ngờ"
     },
@@ -5793,6 +6473,8 @@
         "PT": "Ataque Normal: Translocação de Carta Forçada",
         "RU": "Форсирование карты с подменой",
         "TH": "โจมตีปกติ: Card Force Translocation",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Card Force Translocation",
         "TR": "Normal Saldırı: Kart Gücü Aktarımı",
         "VI": "Tấn Công Thường - Thủ Thuật Tráo Bài"
     },
@@ -5810,6 +6492,8 @@
         "PT": "Luzes Chocantes",
         "RU": "Ошеломляющие огни",
         "TH": "Bewildering Lights",
+        "TH_1": "Bewildering Lights",
+        "TH_2": "",
         "TR": "Büyüleyici Işıklar",
         "VI": "Thủ Thuật Đánh Lạc Hướng"
     },
@@ -5827,6 +6511,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -5844,6 +6530,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -5861,6 +6549,8 @@
         "PT": "Truque Maravilhoso: Tour Fantástica",
         "RU": "Великий фокус: Парад чудес",
         "TH": "Wondrous Trick: Miracle Parade",
+        "TH_1": "Wondrous Trick: Miracle Parade",
+        "TH_2": "",
         "TR": "Harika Numara: Mucizevi Geçit Töreni",
         "VI": "Ảo Thuật Kinh Điển - Lữ Trình Kỳ Diệu"
     },
@@ -5878,6 +6568,8 @@
         "PT": "Ataque Normal: Espada do Fluxo",
         "RU": "Меч водоворотов",
         "TH": "โจมตีปกติ: Flowing Eddies",
+        "TH_1": "โจมตีปกติ: Flowing Eddies",
+        "TH_2": "",
         "TR": "Normal Saldırı: Girdap Akıntısı",
         "VI": "Tấn Công Thường - Dòng Chảy Xoáy"
     },
@@ -5895,6 +6587,8 @@
         "PT": "Fluxo Pressurizado",
         "RU": "Давление дрейфующего льда",
         "TH": "Pressurized Floe",
+        "TH_1": "",
+        "TH_2": "Pressurized Floe",
         "TR": "Tazyikli Buz",
         "VI": "Băng Giá Điều Áp"
     },
@@ -5912,6 +6606,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -5929,6 +6625,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -5946,6 +6644,8 @@
         "PT": "Emboscada das Sombras",
         "RU": "Засада теневого охотника",
         "TH": "Shadowhunter's Ambush",
+        "TH_1": "Shadowhunter's Ambush",
+        "TH_2": "",
         "TR": "Gölge Avcısının Pususu",
         "VI": "Ảo Ảnh Công Phá"
     },
@@ -5963,6 +6663,8 @@
         "PT": "Ataque Normal: Punho Gelado Destruidor",
         "RU": "Свирепые кулаки стужи",
         "TH": "โจมตีปกติ: Forceful Fists of Frost",
+        "TH_1": "โจมตีปกติ: Forceful Fists of Frost",
+        "TH_2": "",
         "TR": "Normal Saldırı: Güçlü Buz Yumrukları",
         "VI": "Tấn Công Thường - Liệt Sương Quyền"
     },
@@ -5980,6 +6682,8 @@
         "PT": "Corrida da Presa Gelada",
         "RU": "Стремительный ледяной клык",
         "TH": "Icefang Rush",
+        "TH_1": "Icefang Rush",
+        "TH_2": "",
         "TR": "Buzdiş Saldırısı",
         "VI": "Nanh Băng Càn Quét"
     },
@@ -5997,6 +6701,8 @@
         "PT": "Mordida do Lobo de Ouro Escuro",
         "RU": "Укус чернозлатого волка",
         "TH": "Darkgold Wolfbite",
+        "TH_1": "",
+        "TH_2": "Darkgold Wolfbite",
         "TR": "Kara Altın Kurt Isırığı",
         "VI": "Hắc Kim Lang Cắn Xé"
     },
@@ -6014,6 +6720,8 @@
         "PT": "Ataque Normal: Como Águas Paradas",
         "RU": "Подобно водной глади",
         "TH": "โจมตีปกติ: As Water Seeks Equilibrium",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: As Water Seeks Equilibrium",
         "TR": "Normal Saldırı: Suyun Dengesi",
         "VI": "Tấn Công Thường - Tĩnh Lặng Như Nước"
     },
@@ -6031,6 +6739,8 @@
         "PT": "Lágrimas, Eu Retribuirei",
         "RU": "О слёзы, я воздам",
         "TH": "O Tears, I Shall Repay",
+        "TH_1": "O Tears, I Shall Repay",
+        "TH_2": "",
         "TR": "Baki Kalan Gözyaşları",
         "VI": "Hoàn Trả Nước Mắt"
     },
@@ -6048,6 +6758,8 @@
         "PT": "Marés, Eu Retornei",
         "RU": "О волны, я возвратился",
         "TH": "O Tides, I Have Returned",
+        "TH_1": "O Tides, I Have Returned",
+        "TH_2": "",
         "TR": "Metcezir, Geri Döndüm",
         "VI": "Về Với Thủy Triều"
     },
@@ -6065,6 +6777,8 @@
         "PT": "Ataque Normal: Foto de Cores Frias",
         "RU": "Съёмка в холодных тонах",
         "TH": "โจมตีปกติ: Cool-Color Capture",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Cool-Color Capture",
         "TR": "Normal Saldırı: Soğuk Renk Fotoğrafçılığı",
         "VI": "Tấn Công Thường - Phối Màu Lạnh"
     },
@@ -6082,6 +6796,8 @@
         "PT": "Enquadramento: Composição do Ponto de Congelamento",
         "RU": "Съёмка: Композиция точки замерзания",
         "TH": "Framing: Freezing Point Composition",
+        "TH_1": "Framing: Freezing Point Composition",
+        "TH_2": "",
         "TR": "Kadraj: Dondurma Tekniği",
         "VI": "Lấy Cảnh - Bố Cục Điểm Lạnh"
     },
@@ -6099,6 +6815,8 @@
         "PT": "Determinado: Confirmação Geral",
         "RU": "Стоп-кадр: Всестороннее подтверждение",
         "TH": "Still Photo: Comprehensive Confirmation",
+        "TH_1": "Still Photo: Comprehensive Confirmation",
+        "TH_2": "",
         "TR": "Sabit Fotoğraf: Tam Doğrulama",
         "VI": "Ảnh Tĩnh - Xác Nhận Toàn Diện"
     },
@@ -6116,6 +6834,8 @@
         "PT": "Ataque Normal: Solicitação da Solista",
         "RU": "Приглашение на одиночный танец",
         "TH": "โจมตีปกติ: Soloist's Solicitation",
+        "TH_1": "โจมตีปกติ: Soloist's Solicitation",
+        "TH_2": "",
         "TR": "Normal Saldırı: Dansa Davet",
         "VI": "Tấn Công Thường - Lời Mời Độc Diễn"
     },
@@ -6133,6 +6853,8 @@
         "PT": "Salon Solitaire",
         "RU": "Салон одиноких сердец",
         "TH": "Salon Solitaire",
+        "TH_1": "Salon Solitaire",
+        "TH_2": "",
         "TR": "Yalnızlık Salonu",
         "VI": "Salon Cô Độc"
     },
@@ -6150,6 +6872,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -6167,6 +6891,8 @@
         "PT": "E o Povo Vai à Loucura",
         "RU": "Да возрадуются люди",
         "TH": "Let the People Rejoice",
+        "TH_1": "",
+        "TH_2": "Let the People Rejoice",
         "TR": "Cümbüş Havası",
         "VI": "Chúng Dân Reo Hò"
     },
@@ -6184,6 +6910,8 @@
         "PT": "Ataque Normal: Linha de Baioneta Modificada",
         "RU": "Модифицированный ряд штыков",
         "TH": "โจมตีปกติ: Line Bayonet Thrust EX",
+        "TH_1": "โจมตีปกติ: Line Bayonet Thrust EX",
+        "TH_2": "",
         "TR": "Normal Saldırı: Süngü Hattı Saldırısı",
         "VI": "Tấn Công Thường - Lưỡi Lê Cải Tiến"
     },
@@ -6201,6 +6929,8 @@
         "PT": "Combate Próximo Rápido",
         "RU": "Быстрый преграждающий выстрел вблизи",
         "TH": "Short-Range Rapid Interdiction Fire",
+        "TH_1": "",
+        "TH_2": "Short-Range Rapid Interdiction Fire",
         "TR": "Kısa Menzilli Seri Tecrit Ateşi",
         "VI": "Đánh Chặn Nhanh Tầm Gần"
     },
@@ -6218,6 +6948,8 @@
         "PT": "Técnica da Explosão Circular",
         "RU": "Кольцо разрывных гранат",
         "TH": "Ring of Bursting Grenades",
+        "TH_1": "Ring of Bursting Grenades",
+        "TH_2": "",
         "TR": "Patlayan Ateş Çemberi",
         "VI": "Bom Chùm Oanh Tạc"
     },
@@ -6235,6 +6967,8 @@
         "PT": "Ataque Normal: Desistência Franca",
         "RU": "Прямое неприятие",
         "TH": "โจมตีปกติ: Blunt Refusal",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Blunt Refusal",
         "TR": "Normal Saldırı: Açık İnkar",
         "VI": "Tấn Công Thường - Từ Chối Thẳng"
     },
@@ -6252,6 +6986,8 @@
         "PT": "Cerimônia Cristalina Flamejante",
         "RU": "Церемониальный залп кристалла",
         "TH": "Ceremonial Crystalshot",
+        "TH_1": "",
+        "TH_2": "Ceremonial Crystalshot",
         "TR": "Kristal Tören Atışı",
         "VI": "Đạn Pha Lê Thanh Lịch"
     },
@@ -6269,6 +7005,8 @@
         "PT": "Como um Presente do Céu Claro",
         "RU": "Словно приветствие чистого неба",
         "TH": "As the Sunlit Sky's Singing Salute",
+        "TH_1": "",
+        "TH_2": "As the Sunlit Sky's Singing Salute",
         "TR": "Güneşli Gökyüzünün Selamı",
         "VI": "Pháo Mừng Vang Trời"
     },
@@ -6286,6 +7024,8 @@
         "PT": "Ataque Normal: Lâmina Estelar",
         "RU": "Разорванные когтями звёзды",
         "TH": "โจมตีปกติ: Stellar Rend",
+        "TH_1": "โจมตีปกติ: Stellar Rend",
+        "TH_2": "",
         "TR": "Normal Saldırı: Yıldız Pençesi",
         "VI": "Tấn Công Thường - Hái Sao"
     },
@@ -6303,6 +7043,8 @@
         "PT": "Ascensão Bestial",
         "RU": "Восхождение благовещего зверя",
         "TH": "Bestial Ascent",
+        "TH_1": "",
+        "TH_2": "Bestial Ascent",
         "TR": "Canavar Yükselişi",
         "VI": "Thụy Thú Thăng Thiên"
     },
@@ -6320,6 +7062,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -6337,6 +7081,8 @@
         "PT": "Dança das Chamas Douradas",
         "RU": "Золотой танец суаньни",
         "TH": "Suanni's Gilded Dance",
+        "TH_1": "",
+        "TH_2": "Suanni's Gilded Dance",
         "TR": "Suanni'nin Yaldızlı Dansı",
         "VI": "Kim Nghê Vũ Bùng Cháy"
     },
@@ -6354,6 +7100,8 @@
         "PT": "Ataque Normal: Palavras de Ventos e Flores",
         "RU": "Слово ветра и цветка",
         "TH": "โจมตีปกติ: Word of Wind and Flower",
+        "TH_1": "โจมตีปกติ: Word of Wind and Flower",
+        "TH_2": "",
         "TR": "Normal Saldırı: Rüzgar ile Çiçeğin Sözleri",
         "VI": "Tấn Công Thường - Ngôn Từ Hoa Và Gió"
     },
@@ -6371,6 +7119,8 @@
         "PT": "Nuvens Brancas na Alvorada",
         "RU": "Белые облака на заре",
         "TH": "White Clouds at Dawn",
+        "TH_1": "",
+        "TH_2": "White Clouds at Dawn",
         "TR": "Şafaktaki Beyaz Bulutlar",
         "VI": "Mây Trắng Bình Minh"
     },
@@ -6388,6 +7138,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -6405,6 +7157,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -6422,6 +7176,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -6439,6 +7195,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -6456,6 +7214,8 @@
         "PT": "As Estrelas se Reúnem no Crepúsculo",
         "RU": "Сумеречное собрание звёзд",
         "TH": "Stars Gather at Dusk",
+        "TH_1": "Stars Gather at Dusk",
+        "TH_2": "",
         "TR": "Alacakaranlıkta Beliren Yıldızlar",
         "VI": "Hái Sao Chạng Vạng"
     },
@@ -6473,6 +7233,8 @@
         "PT": "Ataque Normal: Lâmina Tecelã",
         "RU": "Ткущий клинок",
         "TH": "โจมตีปกติ: Weaving Blade",
+        "TH_1": "โจมตีปกติ: Weaving Blade",
+        "TH_2": "",
         "TR": "Normal Saldırı: Örgü Kılıcı",
         "VI": "Tấn Công Thường - Lưỡi Đao Dệt Gấm"
     },
@@ -6490,6 +7252,8 @@
         "PT": "Carícia da Pluma Penada",
         "RU": "Порхание хасодэ",
         "TH": "Fluttering Hasode",
+        "TH_1": "Fluttering Hasode",
+        "TH_2": "",
         "TR": "Hasode Darbesi",
         "VI": "Hasode Lả Lướt"
     },
@@ -6507,6 +7271,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -6524,6 +7290,8 @@
         "PT": "Lâminas Gêmeas: Em Voo",
         "RU": "Хиёку: Парные клинки",
         "TH": "Hiyoku: Twin Blades",
+        "TH_1": "",
+        "TH_2": "Hiyoku: Twin Blades",
         "TR": "Hiyoku: Çift Kılıç",
         "VI": "Hiyoku - Song Đao Thức"
     },
@@ -6541,6 +7309,8 @@
         "PT": "Ataque Normal: Tratamento Direcionado",
         "RU": "Прицельное лечение",
         "TH": "โจมตีปกติ: Targeted Treatment",
+        "TH_1": "โจมตีปกติ: Targeted Treatment",
+        "TH_2": "",
         "TR": "Normal Saldırı: Odaklı Tedavi",
         "VI": "Tấn Công Thường - Trị Liệu Theo Mục Tiêu"
     },
@@ -6558,6 +7328,8 @@
         "PT": "Terapia de Água Saltitante",
         "RU": "Прыгучая гидротерапия",
         "TH": "Rebound Hydrotherapy",
+        "TH_1": "Rebound Hydrotherapy",
+        "TH_2": "",
         "TR": "Zıplayan Hidroterapi",
         "VI": "Trị Liệu Nảy Nảy Nảy"
     },
@@ -6575,6 +7347,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -6592,6 +7366,8 @@
         "PT": "Injeção Super Saturada",
         "RU": "Сверхнасыщенная инъекция",
         "TH": "Super Saturated Syringing",
+        "TH_1": "",
+        "TH_2": "Super Saturated Syringing",
         "TR": "Aşırı Doygun Şırınga",
         "VI": "Ống Tiêm Siêu Bão Hòa"
     },
@@ -6609,6 +7385,8 @@
         "PT": "Ataque Normal: Convite para Decapitação",
         "RU": "Приглашение на казнь",
         "TH": "โจมตีปกติ: Invitation to a Beheading",
+        "TH_1": "โจมตีปกติ: Invitation to a Beheading",
+        "TH_2": "",
         "TR": "Normal Saldırı: İnfaza Çağrı",
         "VI": "Tấn Công Thường - Lời Mời Trảm Thủ"
     },
@@ -6626,6 +7404,8 @@
         "PT": "Tudo são Cinzas",
         "RU": "Всё превращается в прах",
         "TH": "All Is Ash",
+        "TH_1": "",
+        "TH_2": "All Is Ash",
         "TR": "Hepsi Kül Oldu",
         "VI": "Vạn Vật Hóa Tro"
     },
@@ -6643,6 +7423,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -6660,6 +7442,8 @@
         "PT": "Ascensão da Lua Ominosa",
         "RU": "Восхождение роковой луны",
         "TH": "Balemoon Rising",
+        "TH_1": "",
+        "TH_2": "Balemoon Rising",
         "TR": "Uğursuz Ayın Doğuşu",
         "VI": "Ách Nguyệt Trỗi Dậy"
     },
@@ -6677,6 +7461,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -6694,6 +7480,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -6711,6 +7499,8 @@
         "PT": "Ataque Normal: Técnica do Arco Real",
         "RU": "Королевское мастерство стрельбы",
         "TH": "โจมตีปกติ: Royal Reed Archery",
+        "TH_1": "โจมตีปกติ: Royal Reed Archery",
+        "TH_2": "",
         "TR": "Normal Saldırı: Kraliyet Saz Okçuluğu",
         "VI": "Tấn Công Thường - Tiễn Thuật Lau Sậy Hoàng Gia"
     },
@@ -6728,6 +7518,8 @@
         "PT": "Ritual Antigo: Rugido Trovejante da Areia",
         "RU": "Древний обряд: Громогласный рёв песка",
         "TH": "Ancient Rite: The Thundering Sands",
+        "TH_1": "Ancient Rite: The Thundering Sands",
+        "TH_2": "",
         "TR": "Kadim Ayin: Gürleyen Kumlar",
         "VI": "Nghi Thức Cổ - Tiếng Sấm Của Cát"
     },
@@ -6745,6 +7537,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -6762,6 +7556,8 @@
         "PT": "Ritual Secreto: Perfura-Sombra do Crepúsculo",
         "RU": "Тайный ритуал: Сумеречный пронзитель теней",
         "TH": "Secret Rite: Twilight Shadowpiercer",
+        "TH_1": "Secret Rite: Twilight Shadowpiercer",
+        "TH_2": "",
         "TR": "Saklı Ayin: Gölgedelen Alacakaranlık",
         "VI": "Nghi Thức Ẩn - Ánh Sáng Xuyên Bóng Tối"
     },
@@ -6779,6 +7575,8 @@
         "PT": "Ataque Normal: Juramento do Marechalato",
         "RU": "Клятва Сумеречного двора",
         "TH": "โจมตีปกติ: Oath of Hunting Shadows",
+        "TH_1": "โจมตีปกติ: Oath of Hunting Shadows",
+        "TH_2": "",
         "TR": "Normal Saldırı: Gölge Avı Yemini",
         "VI": "Tấn Công Thường - Lời Thề Marechaussee"
     },
@@ -6796,6 +7594,8 @@
         "PT": "Patrulha na Escuridão",
         "RU": "Охота на тьму",
         "TH": "Hunter's Vigil",
+        "TH_1": "",
+        "TH_2": "Hunter's Vigil",
         "TR": "Avcının Nöbeti",
         "VI": "Thanh Trừng Bóng Tối"
     },
@@ -6813,6 +7613,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -6830,6 +7632,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -6847,6 +7651,8 @@
         "PT": "Queda da Luz",
         "RU": "Последние лучи света",
         "TH": "Last Lightfall",
+        "TH_1": "",
+        "TH_2": "Last Lightfall",
         "TR": "Son Parıltı",
         "VI": "Tia Sáng Cuối Cùng"
     },
@@ -6864,6 +7670,8 @@
         "PT": "Ataque Normal: Lança do Marechalato (Modificado)",
         "RU": "Копьё охоты на тени",
         "TH": "โจมตีปกติ: Shadow-Hunting Spear (Custom)",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Shadow-Hunting Spear (Custom)",
         "TR": "Normal Saldırı: Gölge Avı Mızrağı (Özel)",
         "VI": "Tấn Công Thường - Săn Bóng Tối (Cải Tiến)"
     },
@@ -6881,6 +7689,8 @@
         "PT": "Extração de Fragrância",
         "RU": "Извлечение ароматов",
         "TH": "Fragrance Extraction",
+        "TH_1": "Fragrance Extraction",
+        "TH_2": "",
         "TR": "Koku Damıtma",
         "VI": "Chiết Xuất Nước Hoa"
     },
@@ -6898,6 +7708,8 @@
         "PT": "Apresentação Aromática",
         "RU": "Толкование ароматов",
         "TH": "Aromatic Explication",
+        "TH_1": "Aromatic Explication",
+        "TH_2": "",
         "TR": "Aroma Yorumlama",
         "VI": "Trình Diễn Hương Thơm"
     },
@@ -6915,6 +7727,8 @@
         "PT": "Ataque Normal: Mordida Perfuradora",
         "RU": "Скалогрыз",
         "TH": "โจมตีปกติ: Cragbiter",
+        "TH_1": "โจมตีปกติ: Cragbiter",
+        "TH_2": "",
         "TR": "Normal Saldırı: Kayabiçen",
         "VI": "Tấn Công Thường - Vết Cắn Của Núi"
     },
@@ -6932,6 +7746,8 @@
         "PT": "Ataque, Pirueta Turbo!",
         "RU": "Вперёд, Турбовихрь!",
         "TH": "Go, Go Turbo Twirly!",
+        "TH_1": "Go, Go Turbo Twirly!",
+        "TH_2": "",
         "TR": "Atıl Turbo Topaç!",
         "VI": "Mũi Khoan Quay Tròn, Xuất Kích!"
     },
@@ -6949,6 +7765,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -6966,6 +7784,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -6983,6 +7803,8 @@
         "PT": "Hora de Ficar Séria!",
         "RU": "Ну теперь всё!",
         "TH": "Time to Get Serious!",
+        "TH_1": "",
+        "TH_2": "Time to Get Serious!",
         "TR": "Ciddileşme Zamanı!",
         "VI": "Đến Lúc Nghiêm Túc Rồi!"
     },
@@ -7000,6 +7822,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7017,6 +7841,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7034,6 +7860,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7051,6 +7879,8 @@
         "PT": "Ataque Normal: Estilo do Sol Noturno",
         "RU": "Стиль ночного солнца",
         "TH": "โจมตีปกติ: Nightsun Style",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Nightsun Style",
         "TR": "Normal Saldırı: Gece Güneşi Tarzı",
         "VI": "Tấn Công Thường - Mặt Trời Đêm"
     },
@@ -7068,6 +7898,8 @@
         "PT": "Caçador de Dossel: Montando nas Alturas",
         "RU": "Охотник Крон: Верхом на высотах",
         "TH": "Canopy Hunter: Riding High",
+        "TH_1": "Canopy Hunter: Riding High",
+        "TH_2": "",
         "TR": "Kubbe Avcısı: Yükseklere Doğru",
         "VI": "Săn Mồi Trên Cao"
     },
@@ -7085,6 +7917,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7102,6 +7936,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7119,6 +7955,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7136,6 +7974,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7153,6 +7993,8 @@
         "PT": "Saúdem o Poderoso Dragão Soberano",
         "RU": "Слава драконьему величеству",
         "TH": "Hail to the Almighty Dragonlord",
+        "TH_1": "Hail to the Almighty Dragonlord",
+        "TH_2": "",
         "TR": "Yüce Ejder Lorduna Selam Olsun",
         "VI": "Kính Chào Thánh Long Toàn Năng"
     },
@@ -7170,6 +8012,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7187,6 +8031,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7204,6 +8050,8 @@
         "PT": "Ataque Normal: Rugido de Ehecatl",
         "RU": "Рёв Эекатля",
         "TH": "โจมตีปกติ: Ehecatl's Roar",
+        "TH_1": "โจมตีปกติ: Ehecatl's Roar",
+        "TH_2": "",
         "TR": "Normal Saldırı: Ehecatl Kükreyişi",
         "VI": "Tấn Công Thường - Tiếng Hống Ehecatl"
     },
@@ -7221,6 +8069,8 @@
         "PT": "Arranhão de Yohual",
         "RU": "Скретч Йоуаль",
         "TH": "Yohual's Scratch",
+        "TH_1": "Yohual's Scratch",
+        "TH_2": "",
         "TR": "Yohual Pençesi",
         "VI": "Yohual Cào Xé"
     },
@@ -7238,6 +8088,8 @@
         "PT": "Ritmo Ocelotlicue!",
         "RU": "В ритме оцелота!",
         "TH": "Ocelotlicue Point!",
+        "TH_1": "Ocelotlicue Point!",
+        "TH_2": "",
         "TR": "Oselo Ritmi!",
         "VI": "Âm Điệu Ocelotlicue!"
     },
@@ -7255,6 +8107,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7272,6 +8126,198 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
+        "TR": "",
+        "VI": ""
+    },
+    "894584245": {
+        "CHS": "普通攻击·迷羽流击",
+        "CHT": "普通攻擊·迷羽流擊",
+        "DE": "Standardangriff: Phantomfederschwarm",
+        "EN": "Normal Attack: Phantom Feather Flurry",
+        "ES": "Ataque Normal: Corriente plumífera",
+        "FR": "Attaque normale : Rafale de plumes fantômes",
+        "ID": "Normal Attack: Phantom Feather Flurry",
+        "IT": "Attacco normale: Raffica Spettropiuma",
+        "JP": "通常攻撃・フェザー・フルーリー",
+        "KR": "일반 공격·유령깃 연사",
+        "PT": "Ataque Normal: Rajada de Penas Fantasma",
+        "RU": "Шквал призрачных перьев",
+        "TH": "",
+        "TH_1": "โจมตีปกติ: Phantom Feather Flurry",
+        "TH_2": "",
+        "TR": "Normal Saldırı: Hayalet Tüy Fırtınası",
+        "VI": "Tấn Công Thường - Mưa Lông Vũ"
+    },
+    "3865567869": {
+        "CHS": "灵缰追影",
+        "CHT": "靈韁追影",
+        "DE": "Auf der Jagd nach dem Schatten",
+        "EN": "Spirit Reins, Shadow Hunt",
+        "ES": "Riendas persiguesombras",
+        "FR": "Chasse des rênes spirituelles",
+        "ID": "Spirit Reins, Shadow Hunt",
+        "IT": "Redini dello spirito, Caccia nell'ombra",
+        "JP": "スピリット・レインズ",
+        "KR": "영혼 올가미",
+        "PT": "Rédeas Espirituais, Caça Sombria",
+        "RU": "Поводья охоты за тенью",
+        "TH": "",
+        "TH_1": "",
+        "TH_2": "Spirit Reins, Shadow Hunt",
+        "TR": "Ruh Dizginleri, Gölge Avı",
+        "VI": "Dây Cương Truy Ảnh"
+    },
+    "1268888861": {
+        "CHS": "恰斯卡瞄准射击",
+        "CHT": "",
+        "DE": "",
+        "EN": "",
+        "ES": "",
+        "FR": "",
+        "ID": "",
+        "IT": "",
+        "JP": "",
+        "KR": "",
+        "PT": "",
+        "RU": "",
+        "TH": "",
+        "TH_1": "",
+        "TH_2": "",
+        "TR": "",
+        "VI": ""
+    },
+    "1324968837": {
+        "CHS": "恰斯卡-多重瞄准",
+        "CHT": "",
+        "DE": "",
+        "EN": "",
+        "ES": "",
+        "FR": "",
+        "ID": "",
+        "IT": "",
+        "JP": "",
+        "KR": "",
+        "PT": "",
+        "RU": "",
+        "TH": "",
+        "TH_1": "",
+        "TH_2": "",
+        "TR": "",
+        "VI": ""
+    },
+    "2189434621": {
+        "CHS": "索魂命袭",
+        "CHT": "索魂命襲",
+        "DE": "Der letzte Tanz des Sensenmanns",
+        "EN": "Soul Reaper's Fatal Round",
+        "ES": "Asalto espectral",
+        "FR": "Assaut de faucheur d'âmes",
+        "ID": "Soul Reaper's Fatal Round",
+        "IT": "Colpo fatale della mietitrice",
+        "JP": "ソウルリーパーの猛襲",
+        "KR": "영혼 수확",
+        "PT": "Rodada Fatal do Ceifador de Almas",
+        "RU": "Роковой выстрел ловца душ",
+        "TH": "",
+        "TH_1": "",
+        "TH_2": "Soul Reaper's Fatal Round",
+        "TR": "Ruh Biçenin Ölümcül Darbesi",
+        "VI": "Tập Kích Diệt Hồn"
+    },
+    "941383253": {
+        "CHS": "恰斯卡-替换战技",
+        "CHT": "",
+        "DE": "",
+        "EN": "",
+        "ES": "",
+        "FR": "",
+        "ID": "",
+        "IT": "",
+        "JP": "",
+        "KR": "",
+        "PT": "",
+        "RU": "",
+        "TH": "",
+        "TH_1": "",
+        "TH_2": "",
+        "TR": "",
+        "VI": ""
+    },
+    "2437002693": {
+        "CHS": "恰斯卡空中元素爆发",
+        "CHT": "",
+        "DE": "",
+        "EN": "",
+        "ES": "",
+        "FR": "",
+        "ID": "",
+        "IT": "",
+        "JP": "",
+        "KR": "",
+        "PT": "",
+        "RU": "",
+        "TH": "",
+        "TH_1": "",
+        "TH_2": "",
+        "TR": "",
+        "VI": ""
+    },
+    "2043776509": {
+        "CHS": "恰斯卡夜魂接力战技",
+        "CHT": "",
+        "DE": "",
+        "EN": "",
+        "ES": "",
+        "FR": "",
+        "ID": "",
+        "IT": "",
+        "JP": "",
+        "KR": "",
+        "PT": "",
+        "RU": "",
+        "TH": "",
+        "TH_1": "",
+        "TH_2": "",
+        "TR": "",
+        "VI": ""
+    },
+    "1428043941": {
+        "CHS": "恰斯卡浮空受身",
+        "CHT": "",
+        "DE": "",
+        "EN": "",
+        "ES": "",
+        "FR": "",
+        "ID": "",
+        "IT": "",
+        "JP": "",
+        "KR": "",
+        "PT": "",
+        "RU": "",
+        "TH": "",
+        "TH_1": "",
+        "TH_2": "",
+        "TR": "",
+        "VI": ""
+    },
+    "1436528045": {
+        "CHS": "恰斯卡浮空冲刺",
+        "CHT": "",
+        "DE": "",
+        "EN": "",
+        "ES": "",
+        "FR": "",
+        "ID": "",
+        "IT": "",
+        "JP": "",
+        "KR": "",
+        "PT": "",
+        "RU": "",
+        "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7289,6 +8335,8 @@
         "PT": "Ataque Normal: Tratamento Esfriante",
         "RU": "Охлаждающая процедура",
         "TH": "โจมตีปกติ: Cooling Treatment",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Cooling Treatment",
         "TR": "Normal Saldırı: Serinletici Tedavi",
         "VI": "Tấn Công Thường - Xử Lý Giảm Nhiệt"
     },
@@ -7306,6 +8354,8 @@
         "PT": "Tubarão Surfista das Ondas",
         "RU": "Волнорезная сёрф-акула",
         "TH": "Surfshark Wavebreaker",
+        "TH_1": "",
+        "TH_2": "Surfshark Wavebreaker",
         "TR": "Dalgakıran Köpek Balığı",
         "VI": "Cá Mập Xuyên Sóng"
     },
@@ -7323,6 +8373,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7340,6 +8392,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7357,6 +8411,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7374,6 +8430,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7391,6 +8449,8 @@
         "PT": "Disparo da Tempestade Explosiva",
         "RU": "Зубастый бабах",
         "TH": "Boomsharka-laka",
+        "TH_1": "",
+        "TH_2": "Boomsharka-laka",
         "TR": "Fırtınapatlatan Atışı",
         "VI": "Cá Mập Nổ Dồn Dập"
     },
@@ -7408,6 +8468,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7425,6 +8487,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7442,6 +8506,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7459,6 +8525,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7476,6 +8544,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7493,6 +8563,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7510,6 +8582,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7527,8 +8601,124 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
+    },
+    "818975741": {
+        "CHS": "普通攻击·宿灵闪箭",
+        "CHT": "普通攻擊·宿靈閃箭",
+        "DE": "Standardangriff: Blitzender Pfeil der schlummernden Seelen",
+        "EN": "Normal Attack: Spiritvessel Snapshot",
+        "ES": "Ataque Normal: Flecha albergaespíritus",
+        "FR": "Attaque normale : Flèche spirituellement habitée",
+        "ID": "Normal Attack: Spiritvessel Snapshot",
+        "IT": "Attacco normale: Freccia albergaspiriti",
+        "JP": "通常攻撃・憑霊の閃矢",
+        "KR": "일반 공격·영혼의 섬광",
+        "PT": "Ataque Normal: Flecha Veloz Espiritual",
+        "RU": "Выстрел пристанища духов",
+        "TH": "",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Spiritvessel Snapshot",
+        "TR": "Normal Saldırı: Ruh Meskeni Yıldırım Oku",
+        "VI": "Tấn Công Thường - Mũi Tên Linh Hồn"
+    },
+    "4286406381": {
+        "CHS": "暝色缒索",
+        "CHT": "暝色縋索",
+        "DE": "Kette des Zwielichts",
+        "EN": "Night's Sling",
+        "ES": "Amparo de la noche",
+        "FR": "Cordon fermement crépusculaire",
+        "ID": "Night's Sling",
+        "IT": "Lancio della Notte",
+        "JP": "冥色のタイトロープ",
+        "KR": "밤빛 줄",
+        "PT": "Rastreamento da Escuridão",
+        "RU": "Праща ночи",
+        "TH": "",
+        "TH_1": "",
+        "TH_2": "Night's Sling",
+        "TR": "Gece Sapanı",
+        "VI": "Màn Đêm Trói Buộc"
+    },
+    "1798091005": {
+        "CHS": "欧洛伦元素战技替换",
+        "CHT": "",
+        "DE": "",
+        "EN": "",
+        "ES": "",
+        "FR": "",
+        "ID": "",
+        "IT": "",
+        "JP": "",
+        "KR": "",
+        "PT": "",
+        "RU": "",
+        "TH": "",
+        "TH_1": "",
+        "TH_2": "",
+        "TR": "",
+        "VI": ""
+    },
+    "4204895213": {
+        "CHS": "欧洛伦瞄准射击",
+        "CHT": "",
+        "DE": "",
+        "EN": "",
+        "ES": "",
+        "FR": "",
+        "ID": "",
+        "IT": "",
+        "JP": "",
+        "KR": "",
+        "PT": "",
+        "RU": "",
+        "TH": "",
+        "TH_1": "",
+        "TH_2": "",
+        "TR": "",
+        "VI": ""
+    },
+    "1558714933": {
+        "CHS": "黯声回响",
+        "CHT": "黯聲迴響",
+        "DE": "Gedämpftes Echo der Finsternis",
+        "EN": "Dark Voices Echo",
+        "ES": "Eco de la oscuridad",
+        "FR": "Écho opaquement étouffé",
+        "ID": "Dark Voices Echo",
+        "IT": "Eco di voci oscure",
+        "JP": "闇声の残響",
+        "KR": "어둠의 메아리",
+        "PT": "Ecos Sombrios",
+        "RU": "Эхо мрачных голосов",
+        "TH": "",
+        "TH_1": "",
+        "TH_2": "Dark Voices Echo",
+        "TR": "Karanlık Seslerin Yankıları",
+        "VI": "Tiếng Vọng U Ám"
+    },
+    "2526862789": {
+        "CHS": "特殊跳跃",
+        "CHT": "特殊跳躍",
+        "DE": "Spezialsprung",
+        "EN": "Special Jump",
+        "ES": "Salto especial",
+        "FR": "Saut spécial",
+        "ID": "Special Jump",
+        "IT": "Salto speciale",
+        "JP": "特殊ジャンプ",
+        "KR": "득수 점프",
+        "PT": "Salto Especial",
+        "RU": "Особый прыжок",
+        "TH": "",
+        "TH_1": "Special Jump",
+        "TH_2": "",
+        "TR": "Özel Sıçrama",
+        "VI": "Nhảy Đặc Biệt"
     },
     "1936482797": {
         "CHS": "风魔炮",
@@ -7544,6 +8734,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7561,6 +8753,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7578,6 +8772,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7595,6 +8791,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7612,6 +8810,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7629,6 +8829,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7646,6 +8848,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7663,6 +8867,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7680,6 +8886,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7697,6 +8905,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7714,6 +8924,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7731,6 +8943,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7748,6 +8962,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7765,6 +8981,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7782,6 +9000,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7799,6 +9019,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7816,6 +9038,8 @@
         "PT": "Jogo Temari: Colocar Bola",
         "RU": "",
         "TH": "Temari Game: Place Ball",
+        "TH_1": "",
+        "TH_2": "Temari Game: Place Ball",
         "TR": "",
         "VI": ""
     },
@@ -7833,6 +9057,8 @@
         "PT": "",
         "RU": "禁用元素战记",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7850,6 +9076,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7867,6 +9095,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7884,6 +9114,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7901,6 +9133,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7918,6 +9152,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7935,6 +9171,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7952,6 +9190,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7969,6 +9209,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -7986,6 +9228,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8003,6 +9247,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8020,6 +9266,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8037,6 +9285,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8054,6 +9304,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8071,6 +9323,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8088,6 +9342,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8105,6 +9361,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8122,6 +9380,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8139,6 +9399,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8156,6 +9418,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8173,6 +9437,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8190,6 +9456,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8207,6 +9475,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8224,6 +9494,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8241,6 +9513,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8258,6 +9532,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8275,6 +9551,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8292,6 +9570,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8309,6 +9589,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8326,6 +9608,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8343,6 +9627,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8360,6 +9646,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8377,6 +9665,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8394,6 +9684,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8411,6 +9703,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8428,6 +9722,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8445,6 +9741,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8462,6 +9760,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8479,6 +9779,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8496,6 +9798,27 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
+        "TR": "",
+        "VI": ""
+    },
+    "466607949": {
+        "CHS": "5.2投掷涂鸦",
+        "CHT": "",
+        "DE": "",
+        "EN": "",
+        "ES": "",
+        "FR": "",
+        "ID": "",
+        "IT": "",
+        "JP": "",
+        "KR": "",
+        "PT": "",
+        "RU": "",
+        "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8513,6 +9836,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8530,6 +9855,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8547,6 +9874,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8564,6 +9893,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -8581,6 +9912,8 @@
         "PT": "Habilidade de Liderança: Avanço Flamejante",
         "RU": "Навык лидера: Пылающий прорыв",
         "TH": "สกิลผู้นำ: อัคคีทะลวง",
+        "TH_1": "สกิลผู้นำ: อัคคีทะลวง",
+        "TH_2": "",
         "TR": "Liderlik Becerisi: Parçalayan Alevler",
         "VI": "Chiến Kỹ Đội Trưởng - Liệt Diệm Phá Kích"
     },
@@ -8598,6 +9931,8 @@
         "PT": "Habilidade de Liderança: Onda Poderosa",
         "RU": "Навык лидера: Решительная волна",
         "TH": "สกิลผู้นำ: คลื่นสาดคม",
+        "TH_1": "สกิลผู้นำ: คลื่นสาดคม",
+        "TH_2": "",
         "TR": "Liderlik Becerisi: Sert Dalgalar",
         "VI": "Chiến Kỹ Đội Trưởng - Dòng Chảy Tinh Nhuệ"
     },
@@ -8615,6 +9950,8 @@
         "PT": "Habilidade de Liderança: Redemoinho Tempestuoso",
         "RU": "Навык лидера: Сметающий вихрь",
         "TH": "สกิลผู้นำ: พายุลมกรด",
+        "TH_1": "",
+        "TH_2": "สกิลผู้นำ: พายุลมกรด",
         "TR": "Liderlik Becerisi: Uçuran Kasırga",
         "VI": "Chiến Kỹ Đội Trưởng - Gió Lốc Tăng Cường"
     },
@@ -8632,6 +9969,8 @@
         "PT": "Capturar!",
         "RU": "Попался!",
         "TH": "Capture!",
+        "TH_1": "",
+        "TH_2": "Capture!",
         "TR": "Yakala!",
         "VI": "Bắt lấy!"
     },
@@ -8649,6 +9988,8 @@
         "PT": "Capturar!",
         "RU": "Попался!",
         "TH": "Capture!",
+        "TH_1": "Capture!",
+        "TH_2": "",
         "TR": "Yakala!",
         "VI": "Bắt lấy!"
     },
@@ -8666,6 +10007,8 @@
         "PT": "Pressentimento Misterioso",
         "RU": "Шестое чувство",
         "TH": "Mysterious Hunch",
+        "TH_1": "",
+        "TH_2": "Mysterious Hunch",
         "TR": "Gizemli İçgüdü",
         "VI": "Dự Cảm Thần Bí"
     },
@@ -8683,6 +10026,8 @@
         "PT": "Sensor de Aura",
         "RU": "Аура чувства",
         "TH": "Sensor Aura",
+        "TH_1": "",
+        "TH_2": "Sensor Aura",
         "TR": "Dedektör Aura",
         "VI": "Vòng Sáng Cảm Ứng"
     },
@@ -8700,6 +10045,8 @@
         "PT": "Intuição do Caçador",
         "RU": "Интуиция охотника",
         "TH": "Hunter's Intuition",
+        "TH_1": "Hunter's Intuition",
+        "TH_2": "",
         "TR": "Avcı İçgüdüsü",
         "VI": "Trực Giác Săn Bắt"
     },
@@ -8717,6 +10064,8 @@
         "PT": "Percepção",
         "RU": "Всеведение",
         "TH": "Insight",
+        "TH_1": "",
+        "TH_2": "Insight",
         "TR": "Sezgi",
         "VI": "Quan Sát Toàn Diện"
     },
@@ -8734,6 +10083,8 @@
         "PT": "Maldição do Aprisionamento",
         "RU": "Оковы",
         "TH": "Imprisoning Curse",
+        "TH_1": "",
+        "TH_2": "Imprisoning Curse",
         "TR": "Hapseden Lanet",
         "VI": "Lời Nguyền Giam Cầm"
     },
@@ -8751,6 +10102,8 @@
         "PT": "Disfarce",
         "RU": "Маскировка",
         "TH": "Disguise",
+        "TH_1": "",
+        "TH_2": "Disguise",
         "TR": "Kılık Değiştirme",
         "VI": "Ngụy Trang"
     },
@@ -8768,6 +10121,8 @@
         "PT": "Disfarce",
         "RU": "Маскировка",
         "TH": "Disguise",
+        "TH_1": "Disguise",
+        "TH_2": "",
         "TR": "Kılık Değiştirme",
         "VI": "Ngụy Trang"
     },
@@ -8785,6 +10140,8 @@
         "PT": "Invisibilidade",
         "RU": "Невидимость",
         "TH": "Transparency",
+        "TH_1": "Transparency",
+        "TH_2": "",
         "TR": "Şeffaflık",
         "VI": "Phép Thuật Trong Suốt"
     },
@@ -8802,6 +10159,8 @@
         "PT": "Invisibilidade",
         "RU": "Невидимость",
         "TH": "Transparency",
+        "TH_1": "Transparency",
+        "TH_2": "",
         "TR": "Şeffaflık",
         "VI": "Phép Thuật Trong Suốt"
     },
@@ -8819,6 +10178,8 @@
         "PT": "Colocar Isca",
         "RU": "Приманка",
         "TH": "Lay Bait",
+        "TH_1": "",
+        "TH_2": "Lay Bait",
         "TR": "Yem Bırak",
         "VI": "Chiến Thuật Dụ Dỗ"
     },
@@ -8836,6 +10197,8 @@
         "PT": "Tática de Isca",
         "RU": "Приманка",
         "TH": "Lay Bait",
+        "TH_1": "Lay Bait",
+        "TH_2": "",
         "TR": "Yem Bırak",
         "VI": "Chiến Thuật Dụ Dỗ"
     },
@@ -8853,6 +10216,8 @@
         "PT": "Velocidade Estelar",
         "RU": "Полёт звезды",
         "TH": "Starstep",
+        "TH_1": "Starstep",
+        "TH_2": "",
         "TR": "Yıldız Adımı",
         "VI": "Bước Chân Ngôi Sao"
     },
@@ -8870,6 +10235,8 @@
         "PT": "Disfarce",
         "RU": "Маскировка",
         "TH": "Disguise",
+        "TH_1": "",
+        "TH_2": "Disguise",
         "TR": "Kılık Değiştirme",
         "VI": "Ngụy Trang"
     },
@@ -8887,6 +10254,8 @@
         "PT": "Disfarce",
         "RU": "Маскировка",
         "TH": "Disguise",
+        "TH_1": "Disguise",
+        "TH_2": "",
         "TR": "Kılık Değiştirme",
         "VI": "Ngụy Trang"
     },
@@ -8904,6 +10273,8 @@
         "PT": "Isca",
         "RU": "Приманка",
         "TH": "Lay Bait",
+        "TH_1": "",
+        "TH_2": "Lay Bait",
         "TR": "Yem Bırak",
         "VI": "Chiến Thuật Dụ Dỗ"
     },
@@ -8921,6 +10292,8 @@
         "PT": "Isca",
         "RU": "Приманка",
         "TH": "Lay Bait",
+        "TH_1": "",
+        "TH_2": "Lay Bait",
         "TR": "Yem Bırak",
         "VI": "Chiến Thuật Dụ Dỗ"
     },
@@ -8938,6 +10311,8 @@
         "PT": "Capturar!",
         "RU": "Попался!",
         "TH": "Capture!",
+        "TH_1": "",
+        "TH_2": "Capture!",
         "TR": "Yakala!",
         "VI": "Bắt lấy!"
     },
@@ -8955,6 +10330,8 @@
         "PT": "Capturar!",
         "RU": "Попался!",
         "TH": "Capture!",
+        "TH_1": "Capture!",
+        "TH_2": "",
         "TR": "Yakala!",
         "VI": "Bắt lấy!"
     },
@@ -8972,6 +10349,8 @@
         "PT": "Pressentimento Misterioso",
         "RU": "Шестое чувство",
         "TH": "Mysterious Hunch",
+        "TH_1": "",
+        "TH_2": "Mysterious Hunch",
         "TR": "Gizemli İçgüdü",
         "VI": "Dự Cảm Thần Bí"
     },
@@ -8989,6 +10368,8 @@
         "PT": "Sensor de Aura",
         "RU": "Аура чувства",
         "TH": "Sensor Aura",
+        "TH_1": "",
+        "TH_2": "Sensor Aura",
         "TR": "Dedektör Aura",
         "VI": "Vòng Sáng Cảm Ứng"
     },
@@ -9006,6 +10387,8 @@
         "PT": "Intuição do Caçador",
         "RU": "Интуиция охотника",
         "TH": "Hunter's Intuition",
+        "TH_1": "Hunter's Intuition",
+        "TH_2": "",
         "TR": "Avcı İçgüdüsü",
         "VI": "Trực Giác Săn Bắt"
     },
@@ -9023,6 +10406,8 @@
         "PT": "Percepção",
         "RU": "Всеведение",
         "TH": "Insight",
+        "TH_1": "",
+        "TH_2": "Insight",
         "TR": "Sezgi",
         "VI": "Quan Sát Toàn Diện"
     },
@@ -9040,6 +10425,8 @@
         "PT": "Maldição do Aprisionamento",
         "RU": "Оковы",
         "TH": "Imprisoning Curse",
+        "TH_1": "Imprisoning Curse",
+        "TH_2": "",
         "TR": "Hapseden Lanet",
         "VI": "Lời Nguyền Giam Cầm"
     },
@@ -9057,6 +10444,8 @@
         "PT": "Disfarce",
         "RU": "Маскировка",
         "TH": "Disguise",
+        "TH_1": "Disguise",
+        "TH_2": "",
         "TR": "Kılık Değiştirme",
         "VI": "Ngụy Trang"
     },
@@ -9074,6 +10463,8 @@
         "PT": "Disfarce",
         "RU": "Маскировка",
         "TH": "Disguise",
+        "TH_1": "",
+        "TH_2": "Disguise",
         "TR": "Kılık Değiştirme",
         "VI": "Ngụy Trang"
     },
@@ -9091,6 +10482,8 @@
         "PT": "Invisibilidade",
         "RU": "Невидимость",
         "TH": "Transparency",
+        "TH_1": "",
+        "TH_2": "Transparency",
         "TR": "Şeffaflık",
         "VI": "Phép Thuật Trong Suốt"
     },
@@ -9108,6 +10501,8 @@
         "PT": "Invisibilidade",
         "RU": "Невидимость",
         "TH": "Transparency",
+        "TH_1": "Transparency",
+        "TH_2": "",
         "TR": "Şeffaflık",
         "VI": "Phép Thuật Trong Suốt"
     },
@@ -9125,6 +10520,8 @@
         "PT": "Isca",
         "RU": "Приманка",
         "TH": "Lay Bait",
+        "TH_1": "",
+        "TH_2": "Lay Bait",
         "TR": "Yem Bırak",
         "VI": "Chiến Thuật Dụ Dỗ"
     },
@@ -9142,6 +10539,8 @@
         "PT": "Isca",
         "RU": "Приманка",
         "TH": "Lay Bait",
+        "TH_1": "",
+        "TH_2": "Lay Bait",
         "TR": "Yem Bırak",
         "VI": "Chiến Thuật Dụ Dỗ"
     },
@@ -9159,6 +10558,8 @@
         "PT": "Velocidade Estelar",
         "RU": "Полёт звезды",
         "TH": "Starstep",
+        "TH_1": "Starstep",
+        "TH_2": "",
         "TR": "Yıldız Adımı",
         "VI": "Bước Chân Ngôi Sao"
     },
@@ -9176,6 +10577,8 @@
         "PT": "Rede do Caçador",
         "RU": "Сеть охотника",
         "TH": "Hunter's Net",
+        "TH_1": "",
+        "TH_2": "Hunter's Net",
         "TR": "Avcı Ağı",
         "VI": "Lưới Thợ Săn"
     },
@@ -9193,6 +10596,8 @@
         "PT": "Sinal Ilusório",
         "RU": "Призрачный маячок",
         "TH": "Illusory Beacon",
+        "TH_1": "",
+        "TH_2": "Illusory Beacon",
         "TR": "Yanılgı İşaretçisi",
         "VI": "Thiết Bị Ảo Giác"
     },
@@ -9210,6 +10615,8 @@
         "PT": "Sinal do Desaparecimento",
         "RU": "Маячок невидимости",
         "TH": "Concealing Beacon",
+        "TH_1": "",
+        "TH_2": "Concealing Beacon",
         "TR": "Gizleyici İşaretçi",
         "VI": "Thiết Bị Tàng Hình"
     },
@@ -9227,6 +10634,8 @@
         "PT": "Pressentimento Misterioso",
         "RU": "Шестое чувство",
         "TH": "Mysterious Hunch",
+        "TH_1": "Mysterious Hunch",
+        "TH_2": "",
         "TR": "Gizemli İçgüdü",
         "VI": "Dự Cảm Thần Bí"
     },
@@ -9244,6 +10653,8 @@
         "PT": "Disfarce",
         "RU": "Маскировка",
         "TH": "Disguise",
+        "TH_1": "",
+        "TH_2": "Disguise",
         "TR": "Kılık Değiştirme",
         "VI": "Ngụy Trang"
     },
@@ -9261,6 +10672,8 @@
         "PT": "Disfarce",
         "RU": "Маскировка",
         "TH": "Disguise",
+        "TH_1": "Disguise",
+        "TH_2": "",
         "TR": "Kılık Değiştirme",
         "VI": "Ngụy Trang"
     },
@@ -9278,6 +10691,8 @@
         "PT": "Peixe Saltador",
         "RU": "Рыбий прыжок",
         "TH": "Fish Leap",
+        "TH_1": "",
+        "TH_2": "Fish Leap",
         "TR": "Balık Atlayışı",
         "VI": "Cá Nhảy"
     },
@@ -9295,6 +10710,8 @@
         "PT": "Jogabilidade Paisagística",
         "RU": "Игра пейзажей",
         "TH": "Sceneplay",
+        "TH_1": "",
+        "TH_2": "Sceneplay",
         "TR": "Sahne Oyunu",
         "VI": "Cách Chơi Cảnh Quan"
     },
@@ -9312,6 +10729,8 @@
         "PT": "Saída do Peixe Saltador",
         "RU": "Выскакивающая рыба",
         "TH": "Piscine Pop-Off",
+        "TH_1": "",
+        "TH_2": "Piscine Pop-Off",
         "TR": "Sudan Sıçrayanlar",
         "VI": "Cá Nhảy Bắn"
     },
@@ -9329,6 +10748,8 @@
         "PT": "Projétil Draconiano Divino",
         "RU": "Выстрел статуи Чи",
         "TH": "Chi Statue Shot",
+        "TH_1": "",
+        "TH_2": "Chi Statue Shot",
         "TR": "Chi Heykeli Vuruşu",
         "VI": "Tượng Li Bắn Đạn"
     },
@@ -9346,6 +10767,8 @@
         "PT": "Ejeção Draconiana Divina",
         "RU": "Выпад статуи Чи",
         "TH": "Chi Statue Pop-Up",
+        "TH_1": "",
+        "TH_2": "Chi Statue Pop-Up",
         "TR": "Chi Heykeli Sıçraması",
         "VI": "Tượng Li Bắn"
     },
@@ -9363,6 +10786,8 @@
         "PT": "Sinal de Captura",
         "RU": "Маячок поимки теней",
         "TH": "Shadecatcher Beacon",
+        "TH_1": "Shadecatcher Beacon",
+        "TH_2": "",
         "TR": "Gölge Kapanı İşaretçisi",
         "VI": "Tín Hiệu Chụp Bóng"
     },
@@ -9380,6 +10805,8 @@
         "PT": "Rastros Invisíveis",
         "RU": "Невидимая погоня",
         "TH": "Unseen Pursuit",
+        "TH_1": "",
+        "TH_2": "Unseen Pursuit",
         "TR": "Gizli Takip",
         "VI": "Dấu Vết Vô Hình"
     },
@@ -9397,6 +10824,8 @@
         "PT": "Disfarce",
         "RU": "Маскировка",
         "TH": "Disguise",
+        "TH_1": "",
+        "TH_2": "Disguise",
         "TR": "Kılık Değiştirme",
         "VI": "Ngụy Trang"
     },
@@ -9414,6 +10843,8 @@
         "PT": "Disfarce",
         "RU": "Маскировка",
         "TH": "Disguise",
+        "TH_1": "Disguise",
+        "TH_2": "",
         "TR": "Kılık Değiştirme",
         "VI": "Ngụy Trang"
     },
@@ -9431,6 +10862,8 @@
         "PT": "Disparo da Corrente Marinha 1",
         "RU": "Выстрел течений 1",
         "TH": "Ocean Current Shooting 1",
+        "TH_1": "Ocean Current Shooting 1",
+        "TH_2": "",
         "TR": "Okyanus Akıntısı Atışı 1",
         "VI": "Xạ Kích Dòng Chảy 1"
     },
@@ -9448,6 +10881,8 @@
         "PT": "Disparo da Corrente Marinha 2",
         "RU": "Выстрел течений 2",
         "TH": "Ocean Current Shooting 2",
+        "TH_1": "Ocean Current Shooting 2",
+        "TH_2": "",
         "TR": "Okyanus Akıntısı Atışı 2",
         "VI": "Xạ Kích Dòng Chảy 2"
     },
@@ -9465,6 +10900,8 @@
         "PT": "Maldição do Aprisionamento",
         "RU": "Оковы",
         "TH": "Imprisoning Curse",
+        "TH_1": "",
+        "TH_2": "Imprisoning Curse",
         "TR": "Hapseden Lanet",
         "VI": "Lời Nguyền Giam Cầm"
     },
@@ -9482,6 +10919,8 @@
         "PT": "Capturar!",
         "RU": "Попался!",
         "TH": "Capture!",
+        "TH_1": "",
+        "TH_2": "Capture!",
         "TR": "Yakala!",
         "VI": "Bắt Lấy!"
     },
@@ -9499,6 +10938,8 @@
         "PT": "Capturar!",
         "RU": "Попался!",
         "TH": "Capture!",
+        "TH_1": "",
+        "TH_2": "Capture!",
         "TR": "Yakala!",
         "VI": "Bắt Lấy!"
     },
@@ -9516,8 +10957,29 @@
         "PT": "Pressentimento Misterioso",
         "RU": "Шестое чувство",
         "TH": "Mysterious Hunch",
+        "TH_1": "",
+        "TH_2": "Mysterious Hunch",
         "TR": "Gizemli İçgüdü",
         "VI": "Dự Cảm Thần Bí"
+    },
+    "2957024869": {
+        "CHS": "5.2投掷涂鸦加特林模式",
+        "CHT": "",
+        "DE": "",
+        "EN": "",
+        "ES": "",
+        "FR": "",
+        "ID": "",
+        "IT": "",
+        "JP": "",
+        "KR": "",
+        "PT": "",
+        "RU": "",
+        "TH": "",
+        "TH_1": "",
+        "TH_2": "",
+        "TR": "",
+        "VI": ""
     },
     "2472473013": {
         "CHS": "捕获！",
@@ -9533,6 +10995,8 @@
         "PT": "Capturar!",
         "RU": "Попался!",
         "TH": "Capture!",
+        "TH_1": "Capture!",
+        "TH_2": "",
         "TR": "Yakala!",
         "VI": "Bắt Lấy!"
     },
@@ -9550,6 +11014,8 @@
         "PT": "",
         "RU": "进入钓鱼瞄准状态",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9567,6 +11033,8 @@
         "PT": "",
         "RU": "QTE启动按键",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9584,6 +11052,8 @@
         "PT": "",
         "RU": "QTE战斗按键",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9601,6 +11071,8 @@
         "PT": "Recolher Vara",
         "RU": "收竿",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9618,6 +11090,8 @@
         "PT": "",
         "RU": "退出钓鱼状态",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9635,6 +11109,8 @@
         "PT": "Trocar Isca",
         "RU": "换鱼饵",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9652,6 +11128,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9669,6 +11147,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9686,6 +11166,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9703,6 +11185,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9720,6 +11204,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9737,6 +11223,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9754,6 +11242,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9771,6 +11261,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9788,6 +11280,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9805,6 +11299,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9822,6 +11318,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9839,6 +11337,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9856,6 +11356,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9873,6 +11375,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9890,6 +11394,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9907,6 +11413,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9924,6 +11432,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9941,6 +11451,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9958,6 +11470,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9975,6 +11489,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -9992,6 +11508,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10009,6 +11527,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10026,6 +11546,8 @@
         "PT": "Ataque Normal: Memórias Passadas",
         "RU": "Воспоминания о минувшем",
         "TH": "โจมตีปกติ: Past Memories",
+        "TH_1": "โจมตีปกติ: Past Memories",
+        "TH_2": "",
         "TR": "Normal Saldırı: Eski Hatıralar",
         "VI": "Tấn Công Thường: Hồi Ức Cái Chết"
     },
@@ -10043,6 +11565,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10060,6 +11584,8 @@
         "PT": "Ataque Normal: Corrente Estrangeira",
         "RU": "Чужеземный поток",
         "TH": "โจมตีปกติ: Foreign Stream",
+        "TH_1": "โจมตีปกติ: Foreign Stream",
+        "TH_2": "",
         "TR": "Normal Saldırı: Yabancı Akıntılar",
         "VI": "Tấn Công Thường - Dòng Nước Dị Bang"
     },
@@ -10077,6 +11603,8 @@
         "PT": "Ataque Normal: Vento de Ferro Estrangeiro",
         "RU": "Железный ветер иноземца",
         "TH": "โจมตีปกติ: Foreign Ironwind",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Foreign Ironwind",
         "TR": "Normal Saldırı: Yabancı Demir Fırtınası",
         "VI": "Tấn Công Thường: Gió Sắt Nơi Xa"
     },
@@ -10094,6 +11622,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10111,6 +11641,8 @@
         "PT": "Ataque Normal: Lâmina de Rocha Estrangeira",
         "RU": "Каменный меч иноземца",
         "TH": "โจมตีปกติ: Foreign Rockblade",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Foreign Rockblade",
         "TR": "Normal Saldırı: Yabancı Taş Kılıcı",
         "VI": "Tấn Công Thường: Đỉnh Núi Đá"
     },
@@ -10128,6 +11660,8 @@
         "PT": "Ataque Normal: Choque do Trovão Estrangeiro",
         "RU": "Иноземный гром",
         "TH": "โจมตีปกติ: Foreign Thundershock",
+        "TH_1": "โจมตีปกติ: Foreign Thundershock",
+        "TH_2": "",
         "TR": "Normal Saldırı: Yabancı Yıldırım Şoku",
         "VI": "Tấn Công Thường - Tiếng Sấm Dị Bang"
     },
@@ -10145,6 +11679,8 @@
         "PT": "Ataque Normal: Foice Exótica",
         "RU": "Серп иноземца",
         "TH": "โจมตีปกติ: Foreign Fieldcleaver",
+        "TH_1": "โจมตีปกติ: Foreign Fieldcleaver",
+        "TH_2": "",
         "TR": "Normal Saldırı: Yabancı Otkesen",
         "VI": "Tấn Công Thường - Xén Cỏ Dị Bang"
     },
@@ -10162,6 +11698,8 @@
         "PT": "Ataque Normal: Memórias Passadas",
         "RU": "Воспоминания о минувшем",
         "TH": "โจมตีปกติ: Past Memories",
+        "TH_1": "โจมตีปกติ: Past Memories",
+        "TH_2": "",
         "TR": "Normal Saldırı: Eski Hatıralar",
         "VI": "Tấn Công Thường: Hồi Ức Cái Chết"
     },
@@ -10179,6 +11717,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10196,6 +11736,8 @@
         "PT": "Ataque Normal: Corrente Estrangeira",
         "RU": "Чужеземный поток",
         "TH": "โจมตีปกติ: Foreign Stream",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Foreign Stream",
         "TR": "Normal Saldırı: Yabancı Akıntılar",
         "VI": "Tấn Công Thường - Dòng Nước Dị Bang"
     },
@@ -10213,6 +11755,8 @@
         "PT": "Ataque Normal: Vento de Ferro Estrangeiro",
         "RU": "Железный ветер иноземца",
         "TH": "โจมตีปกติ: Foreign Ironwind",
+        "TH_1": "โจมตีปกติ: Foreign Ironwind",
+        "TH_2": "",
         "TR": "Normal Saldırı: Yabancı Demir Fırtınası",
         "VI": "Tấn Công Thường: Gió Sắt Nơi Xa"
     },
@@ -10230,6 +11774,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10247,6 +11793,8 @@
         "PT": "Ataque Normal: Lâmina de Rocha Estrangeira",
         "RU": "Каменный меч иноземца",
         "TH": "โจมตีปกติ: Foreign Rockblade",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Foreign Rockblade",
         "TR": "Normal Saldırı: Yabancı Taş Kılıcı",
         "VI": "Tấn Công Thường: Đỉnh Núi Đá"
     },
@@ -10264,6 +11812,8 @@
         "PT": "Ataque Normal: Choque do Trovão Estrangeiro",
         "RU": "Иноземный гром",
         "TH": "โจมตีปกติ: Foreign Thundershock",
+        "TH_1": "โจมตีปกติ: Foreign Thundershock",
+        "TH_2": "",
         "TR": "Normal Saldırı: Yabancı Yıldırım Şoku",
         "VI": "Tấn Công Thường - Tiếng Sấm Dị Bang"
     },
@@ -10281,6 +11831,8 @@
         "PT": "Ataque Normal: Foice Exótica",
         "RU": "Серп иноземца",
         "TH": "โจมตีปกติ: Foreign Fieldcleaver",
+        "TH_1": "",
+        "TH_2": "โจมตีปกติ: Foreign Fieldcleaver",
         "TR": "Normal Saldırı: Yabancı Otkesen",
         "VI": "Tấn Công Thường - Xén Cỏ Dị Bang"
     },
@@ -10298,6 +11850,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10315,6 +11869,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10332,6 +11888,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10349,6 +11907,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10366,6 +11926,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10383,6 +11945,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10400,6 +11964,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10417,6 +11983,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10434,6 +12002,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10451,6 +12021,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10468,6 +12040,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10485,6 +12059,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10502,6 +12078,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10519,6 +12097,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10536,6 +12116,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10553,6 +12135,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10570,6 +12154,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10587,6 +12173,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10604,6 +12192,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10621,6 +12211,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10638,6 +12230,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10655,6 +12249,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10672,6 +12268,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10689,6 +12287,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10706,6 +12306,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10723,6 +12325,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10740,6 +12344,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10757,6 +12363,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10774,6 +12382,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10791,6 +12401,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10808,6 +12420,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10825,6 +12439,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10842,6 +12458,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10859,6 +12477,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10876,6 +12496,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10893,6 +12515,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10910,6 +12534,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10927,6 +12553,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10944,6 +12572,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10961,6 +12591,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10978,6 +12610,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -10995,6 +12629,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11012,6 +12648,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11029,6 +12667,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11046,6 +12686,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11063,6 +12705,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11080,6 +12724,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11097,6 +12743,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11114,6 +12762,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11131,6 +12781,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11148,6 +12800,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11165,6 +12819,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11182,6 +12838,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11199,6 +12857,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11216,6 +12876,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11233,6 +12895,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11250,6 +12914,8 @@
         "PT": "",
         "RU": "九条裟罗空中攻击",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11267,6 +12933,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11284,6 +12952,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11301,6 +12971,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11318,6 +12990,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11335,6 +13009,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11352,6 +13028,8 @@
         "PT": "",
         "RU": "埃洛伊空中攻击",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11369,6 +13047,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11386,6 +13066,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11403,6 +13085,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11420,6 +13104,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11437,6 +13123,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11454,6 +13142,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11471,6 +13161,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11488,6 +13180,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11505,6 +13199,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11522,6 +13218,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11539,6 +13237,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11556,6 +13256,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11573,6 +13275,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11590,6 +13294,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11607,6 +13313,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11624,6 +13332,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11641,6 +13351,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11658,6 +13370,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11675,6 +13389,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11692,6 +13408,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11709,6 +13427,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11726,6 +13446,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11743,6 +13465,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11760,6 +13484,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11777,6 +13503,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11794,6 +13522,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11811,6 +13541,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11828,6 +13560,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11845,6 +13579,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11862,6 +13598,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11879,6 +13617,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11896,6 +13636,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11913,6 +13655,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11930,6 +13674,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11947,6 +13693,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11964,6 +13712,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11981,6 +13731,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -11998,6 +13750,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -12015,6 +13769,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -12032,6 +13788,8 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     },
@@ -12049,6 +13807,46 @@
         "PT": "",
         "RU": "",
         "TH": "",
+        "TH_1": "",
+        "TH_2": "",
+        "TR": "",
+        "VI": ""
+    },
+    "691938477": {
+        "CHS": "恰斯卡空中攻击",
+        "CHT": "",
+        "DE": "",
+        "EN": "",
+        "ES": "",
+        "FR": "",
+        "ID": "",
+        "IT": "",
+        "JP": "",
+        "KR": "",
+        "PT": "",
+        "RU": "",
+        "TH": "",
+        "TH_1": "",
+        "TH_2": "",
+        "TR": "",
+        "VI": ""
+    },
+    "2644426605": {
+        "CHS": "欧洛伦空中攻击",
+        "CHT": "",
+        "DE": "",
+        "EN": "",
+        "ES": "",
+        "FR": "",
+        "ID": "",
+        "IT": "",
+        "JP": "",
+        "KR": "",
+        "PT": "",
+        "RU": "",
+        "TH": "",
+        "TH_1": "",
+        "TH_2": "",
         "TR": "",
         "VI": ""
     }

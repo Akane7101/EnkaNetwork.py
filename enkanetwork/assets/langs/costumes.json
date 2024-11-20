@@ -13,6 +13,8 @@
         "PT": "Sonho da Brisa Marinha",
         "RU": "Сон морского бриза",
         "TH": "ความฝันในสายลมแห่งท้องทะเล",
+        "TH_1": "",
+        "TH_2": "ความฝันในสายลมแห่งท้องทะเล",
         "TR": "Deniz Esintisi Rüyası",
         "VI": "Giấc Mộng Gió Biển"
     },
@@ -30,6 +32,8 @@
         "PT": "Performance Brilhante",
         "RU": "Летний блеск",
         "TH": "ซัมเมอร์ซ่าท้าร้อน",
+        "TH_1": "ซัมเมอร์ซ่าท้าร้อน",
+        "TH_2": "",
         "TR": "Muhteşem Yaz",
         "VI": "Mùa Hè Rực Rỡ"
     },
@@ -47,6 +51,8 @@
         "PT": "Vestido de Noite Orquídea",
         "RU": "Флёр орхидеи",
         "TH": "กล้วยไม้อนธการ",
+        "TH_1": "กล้วยไม้อนธการ",
+        "TH_2": "",
         "TR": "Gece Orkidesi",
         "VI": "U Lan Tinh Diệu"
     },
@@ -64,6 +70,8 @@
         "PT": "Esplendor Opulente",
         "RU": "Яркая лёгкость",
         "TH": "รัศมีรุ้งเจิดจรัส",
+        "TH_1": "",
+        "TH_2": "รัศมีรุ้งเจิดจรัส",
         "TR": "Göz Alıcı İhtişam",
         "VI": "Vũ Điệu Nghê Thường"
     },
@@ -81,6 +89,8 @@
         "PT": "Legado de Gunnhildr",
         "RU": "Наследие Гуннхильдр",
         "TH": "มรดกแห่ง Gunnhildr",
+        "TH_1": "",
+        "TH_2": "มรดกแห่ง Gunnhildr",
         "TR": "Gunnhildr'ın Mirası",
         "VI": "Thừa Kế Của Gunnhildr"
     },
@@ -98,6 +108,8 @@
         "PT": "100% Aventureira",
         "RU": "Скаут на все сто",
         "TH": "อัศวินลาดตระเวน 100%",
+        "TH_1": "อัศวินลาดตระเวน 100%",
+        "TH_2": "",
         "TR": "%100 Kaşif",
         "VI": "Kỵ Sĩ Trinh Thám 100%"
     },
@@ -115,6 +127,8 @@
         "PT": "Pacto das Estrelas e da Lua",
         "RU": "Встреча звёзд и луны",
         "TH": "สัญญาแห่งดวงดาวและจันทรา",
+        "TH_1": "",
+        "TH_2": "สัญญาแห่งดวงดาวและจันทรา",
         "TR": "Yıldızların ve Ayın Sözü",
         "VI": "Ước Hẹn Trăng Sao"
     },
@@ -132,6 +146,8 @@
         "PT": "Aos Libertos da Igreja",
         "RU": "За вольный дух церкви",
         "TH": "ถึงเสรีชนทางโบสถ์",
+        "TH_1": "ถึงเสรีชนทางโบสถ์",
+        "TH_2": "",
         "TR": "Kilisenin Özgür Ruhu",
         "VI": "Tu Nữ Tự Do"
     },
@@ -149,6 +165,8 @@
         "PT": "Vermelho Escarlate da Noite",
         "RU": "Алая ночь",
         "TH": "เพลิงมหันต์รัตติกาล",
+        "TH_1": "เพลิงมหันต์รัตติกาล",
+        "TH_2": "",
         "TR": "Kırmızı Gecenin Karanlığı",
         "VI": "Màn Đêm Đỏ Thẫm"
     },
@@ -166,6 +184,8 @@
         "PT": "Sonho da Noite Eterna",
         "RU": "Сон вечной ночи",
         "TH": "ห้วงฝันแห่งรัตติกาล",
+        "TH_1": "ห้วงฝันแห่งรัตติกาล",
+        "TH_2": "",
         "TR": "Ein Immernachtstraum",
         "VI": "Giấc Mộng Đêm Khuya"
     },
@@ -183,6 +203,8 @@
         "PT": "Missiva da Floração",
         "RU": "Послание весеннего цветения",
         "TH": "สารเมื่อยามดอกไม้ผลิบาน",
+        "TH_1": "สารเมื่อยามดอกไม้ผลิบาน",
+        "TH_2": "",
         "TR": "Bahar Çiçeği Mektubu",
         "VI": "Thư Từ Hoa Xuân"
     },
@@ -200,6 +222,8 @@
         "PT": "Identidade Sob a Sombra",
         "RU": "Инкогнито в тени листвы",
         "TH": "นามแห่งความภักดี",
+        "TH_1": "",
+        "TH_2": "นามแห่งความภักดี",
         "TR": "Yaprakların Gölgesindeki Bilgelik",
         "VI": "Danh Vang Trong Lá"
     },
@@ -217,6 +241,8 @@
         "PT": "Luz Estelar Florescente",
         "RU": "Цветущий свет звёзд",
         "TH": "ประกายดาวสะพรั่ง",
+        "TH_1": "",
+        "TH_2": "ประกายดาวสะพรั่ง",
         "TR": "Çiçek Açan Yıldız Işığı",
         "VI": "Hoa Lửa Rực Rỡ"
     },
@@ -234,6 +260,8 @@
         "PT": "Sombra da Vela Tremulante",
         "RU": "Тень ветра в парусах",
         "TH": "เงานาวาล่องลม",
+        "TH_1": "เงานาวาล่องลม",
+        "TH_2": "",
         "TR": "Yelkenli Gölgesi",
         "VI": "Cánh Buồm Lướt Gió"
     },
@@ -251,6 +279,8 @@
         "PT": "Orvalho das Flores Congeladas",
         "RU": "Росы морозных цветов",
         "TH": "หยาดน้ำค้างเยือกแข็ง",
+        "TH_1": "",
+        "TH_2": "หยาดน้ำค้างเยือกแข็ง",
         "TR": "Kırağı Çiçeği Çiyi",
         "VI": "Giọt Sương Hoa Băng"
     },
@@ -268,6 +298,8 @@
         "PT": "Fragrância Preciosa do Jade Preto",
         "RU": "Цветок сумрака",
         "TH": "บุปผาสนธยา",
+        "TH_1": "",
+        "TH_2": "บุปผาสนธยา",
         "TR": "Alacakaranlık Çiçeği",
         "VI": "Hoa Ngọc Ngát Hương"
     },
@@ -285,6 +317,8 @@
         "PT": "Bambu da Chuva",
         "RU": "Бамбуковый дождь",
         "TH": "ไผ่พิรุณ",
+        "TH_1": "ไผ่พิรุณ",
+        "TH_2": "",
         "TR": "Bambu Yağmuru",
         "VI": "Màn Mưa Rừng Trúc"
     },
@@ -302,6 +336,8 @@
         "PT": "Suspiro do Acrídio",
         "RU": "Дыхание Сабаа",
         "TH": "สายลมแห่ง Sabaa",
+        "TH_1": "สายลมแห่ง Sabaa",
+        "TH_2": "",
         "TR": "Sabaa Esintisi",
         "VI": "Ngọn Gió Sabaa"
     },
@@ -319,6 +355,8 @@
         "PT": "Beleza Errante",
         "RU": "Призрак в сапогах",
         "TH": "บูทเงามายา",
+        "TH_1": "",
+        "TH_2": "บูทเงามายา",
         "TR": "Çizmeli Hayalet",
         "VI": "Ảo Ảnh Đi Hia"
     }

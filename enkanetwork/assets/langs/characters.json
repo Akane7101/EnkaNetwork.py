@@ -13,6 +13,8 @@
         "PT": "Kamisato Ayaka",
         "RU": "Аяка",
         "TH": "Kamisato Ayaka",
+        "TH_1": "Kamisato Ayaka",
+        "TH_2": "",
         "TR": "Kamisato Ayaka",
         "VI": "Kamisato Ayaka"
     },
@@ -30,6 +32,8 @@
         "PT": "Jean",
         "RU": "Джинн",
         "TH": "Jean",
+        "TH_1": "",
+        "TH_2": "Jean",
         "TR": "Jean",
         "VI": "Jean"
     },
@@ -47,6 +51,8 @@
         "PT": "Viajante",
         "RU": "Путешественник",
         "TH": "นักเดินทาง",
+        "TH_1": "",
+        "TH_2": "นักเดินทาง",
         "TR": "Gezgin",
         "VI": "Nhà Lữ Hành"
     },
@@ -64,6 +70,8 @@
         "PT": "Lisa",
         "RU": "Лиза",
         "TH": "Lisa",
+        "TH_1": "Lisa",
+        "TH_2": "",
         "TR": "Lisa",
         "VI": "Lisa"
     },
@@ -81,6 +89,8 @@
         "PT": "Viajante",
         "RU": "Путешественница",
         "TH": "นักเดินทาง",
+        "TH_1": "นักเดินทาง",
+        "TH_2": "",
         "TR": "Gezgin",
         "VI": "Nhà Lữ Hành"
     },
@@ -98,6 +108,8 @@
         "PT": "Barbara",
         "RU": "Барбара",
         "TH": "Barbara",
+        "TH_1": "",
+        "TH_2": "Barbara",
         "TR": "Barbara",
         "VI": "Barbara"
     },
@@ -115,6 +127,8 @@
         "PT": "Kaeya",
         "RU": "Кэйа",
         "TH": "Kaeya",
+        "TH_1": "",
+        "TH_2": "Kaeya",
         "TR": "Kaeya",
         "VI": "Kaeya"
     },
@@ -132,6 +146,8 @@
         "PT": "Diluc",
         "RU": "Дилюк",
         "TH": "Diluc",
+        "TH_1": "",
+        "TH_2": "Diluc",
         "TR": "Diluc",
         "VI": "Diluc"
     },
@@ -149,6 +165,8 @@
         "PT": "Razor",
         "RU": "Рэйзор",
         "TH": "Razor",
+        "TH_1": "",
+        "TH_2": "Razor",
         "TR": "Razor",
         "VI": "Razor"
     },
@@ -166,6 +184,8 @@
         "PT": "Amber",
         "RU": "Эмбер",
         "TH": "Amber",
+        "TH_1": "Amber",
+        "TH_2": "",
         "TR": "Amber",
         "VI": "Amber"
     },
@@ -183,6 +203,8 @@
         "PT": "Venti",
         "RU": "Венти",
         "TH": "Venti",
+        "TH_1": "Venti",
+        "TH_2": "",
         "TR": "Venti",
         "VI": "Venti"
     },
@@ -200,6 +222,8 @@
         "PT": "Xiangling",
         "RU": "Сян Лин",
         "TH": "Xiangling",
+        "TH_1": "",
+        "TH_2": "Xiangling",
         "TR": "Xiangling",
         "VI": "Xiangling"
     },
@@ -217,6 +241,8 @@
         "PT": "Beidou",
         "RU": "Бэй Доу",
         "TH": "Beidou",
+        "TH_1": "Beidou",
+        "TH_2": "",
         "TR": "Beidou",
         "VI": "Beidou"
     },
@@ -234,6 +260,8 @@
         "PT": "Xingqiu",
         "RU": "Син Цю",
         "TH": "Xingqiu",
+        "TH_1": "",
+        "TH_2": "Xingqiu",
         "TR": "Xingqiu",
         "VI": "Xingqiu"
     },
@@ -251,6 +279,8 @@
         "PT": "Xiao",
         "RU": "Сяо",
         "TH": "Xiao",
+        "TH_1": "",
+        "TH_2": "Xiao",
         "TR": "Xiao",
         "VI": "Xiao"
     },
@@ -268,6 +298,8 @@
         "PT": "Ningguang",
         "RU": "Нин Гуан",
         "TH": "Ningguang",
+        "TH_1": "",
+        "TH_2": "Ningguang",
         "TR": "Ningguang",
         "VI": "Ningguang"
     },
@@ -285,6 +317,8 @@
         "PT": "Klee",
         "RU": "Кли",
         "TH": "Klee",
+        "TH_1": "Klee",
+        "TH_2": "",
         "TR": "Klee",
         "VI": "Klee"
     },
@@ -302,6 +336,8 @@
         "PT": "Zhongli",
         "RU": "Чжун Ли",
         "TH": "Zhongli",
+        "TH_1": "Zhongli",
+        "TH_2": "",
         "TR": "Zhongli",
         "VI": "Zhongli"
     },
@@ -319,6 +355,8 @@
         "PT": "Fischl",
         "RU": "Фишль",
         "TH": "Fischl",
+        "TH_1": "Fischl",
+        "TH_2": "",
         "TR": "Fischl",
         "VI": "Fischl"
     },
@@ -336,6 +374,8 @@
         "PT": "Bennett",
         "RU": "Беннет",
         "TH": "Bennett",
+        "TH_1": "",
+        "TH_2": "Bennett",
         "TR": "Bennett",
         "VI": "Bennett"
     },
@@ -353,6 +393,8 @@
         "PT": "Tartaglia",
         "RU": "Тарталья",
         "TH": "Tartaglia",
+        "TH_1": "",
+        "TH_2": "Tartaglia",
         "TR": "Tartaglia",
         "VI": "Tartaglia"
     },
@@ -370,6 +412,8 @@
         "PT": "Noelle",
         "RU": "Ноэлль",
         "TH": "Noelle",
+        "TH_1": "",
+        "TH_2": "Noelle",
         "TR": "Noelle",
         "VI": "Noelle"
     },
@@ -387,6 +431,8 @@
         "PT": "Qiqi",
         "RU": "Ци Ци",
         "TH": "Qiqi",
+        "TH_1": "",
+        "TH_2": "Qiqi",
         "TR": "Qiqi",
         "VI": "Qiqi"
     },
@@ -404,6 +450,8 @@
         "PT": "Chongyun",
         "RU": "Чун Юнь",
         "TH": "Chongyun",
+        "TH_1": "Chongyun",
+        "TH_2": "",
         "TR": "Chongyun",
         "VI": "Chongyun"
     },
@@ -421,6 +469,8 @@
         "PT": "Ganyu",
         "RU": "Гань Юй",
         "TH": "Ganyu",
+        "TH_1": "",
+        "TH_2": "Ganyu",
         "TR": "Ganyu",
         "VI": "Ganyu"
     },
@@ -438,6 +488,8 @@
         "PT": "Albedo",
         "RU": "Альбедо",
         "TH": "Albedo",
+        "TH_1": "",
+        "TH_2": "Albedo",
         "TR": "Albedo",
         "VI": "Albedo"
     },
@@ -455,6 +507,8 @@
         "PT": "Diona",
         "RU": "Диона",
         "TH": "Diona",
+        "TH_1": "",
+        "TH_2": "Diona",
         "TR": "Diona",
         "VI": "Diona"
     },
@@ -472,6 +526,8 @@
         "PT": "Mona",
         "RU": "Мона",
         "TH": "Mona",
+        "TH_1": "Mona",
+        "TH_2": "",
         "TR": "Mona",
         "VI": "Mona"
     },
@@ -489,6 +545,8 @@
         "PT": "Keqing",
         "RU": "Кэ Цин",
         "TH": "Keqing",
+        "TH_1": "Keqing",
+        "TH_2": "",
         "TR": "Keqing",
         "VI": "Keqing"
     },
@@ -506,6 +564,8 @@
         "PT": "Sucrose",
         "RU": "Сахароза",
         "TH": "Sucrose",
+        "TH_1": "Sucrose",
+        "TH_2": "",
         "TR": "Sucrose",
         "VI": "Sucrose"
     },
@@ -523,6 +583,8 @@
         "PT": "Xinyan",
         "RU": "Синь Янь",
         "TH": "Xinyan",
+        "TH_1": "Xinyan",
+        "TH_2": "",
         "TR": "Xinyan",
         "VI": "Xinyan"
     },
@@ -540,6 +602,8 @@
         "PT": "Rosaria",
         "RU": "Розария",
         "TH": "Rosaria",
+        "TH_1": "Rosaria",
+        "TH_2": "",
         "TR": "Rosaria",
         "VI": "Rosaria"
     },
@@ -557,6 +621,8 @@
         "PT": "Hutao",
         "RU": "Ху Тао",
         "TH": "Hu Tao",
+        "TH_1": "",
+        "TH_2": "Hu Tao",
         "TR": "Hu Tao",
         "VI": "Hu Tao"
     },
@@ -574,6 +640,8 @@
         "PT": "Kaedehara Kazuha",
         "RU": "Кадзуха",
         "TH": "Kaedehara Kazuha",
+        "TH_1": "Kaedehara Kazuha",
+        "TH_2": "",
         "TR": "Kaedehara Kazuha",
         "VI": "Kaedehara Kazuha"
     },
@@ -591,6 +659,8 @@
         "PT": "Yanfei",
         "RU": "Янь Фэй",
         "TH": "Yanfei",
+        "TH_1": "Yanfei",
+        "TH_2": "",
         "TR": "Yanfei",
         "VI": "Yanfei"
     },
@@ -608,6 +678,8 @@
         "PT": "Yoimiya",
         "RU": "Ёимия",
         "TH": "Yoimiya",
+        "TH_1": "Yoimiya",
+        "TH_2": "",
         "TR": "Yoimiya",
         "VI": "Yoimiya"
     },
@@ -625,6 +697,8 @@
         "PT": "Thoma",
         "RU": "Тома",
         "TH": "Thoma",
+        "TH_1": "",
+        "TH_2": "Thoma",
         "TR": "Thoma",
         "VI": "Thoma"
     },
@@ -642,6 +716,8 @@
         "PT": "Eula",
         "RU": "Эола",
         "TH": "Eula",
+        "TH_1": "",
+        "TH_2": "Eula",
         "TR": "Eula",
         "VI": "Eula"
     },
@@ -659,6 +735,8 @@
         "PT": "Shogun Raiden",
         "RU": "Райдэн",
         "TH": "Raiden Shogun",
+        "TH_1": "",
+        "TH_2": "Raiden Shogun",
         "TR": "Şogun Raiden",
         "VI": "Raiden Shogun"
     },
@@ -676,6 +754,8 @@
         "PT": "Sayu",
         "RU": "Саю",
         "TH": "Sayu",
+        "TH_1": "Sayu",
+        "TH_2": "",
         "TR": "Sayu",
         "VI": "Sayu"
     },
@@ -693,6 +773,8 @@
         "PT": "Sangonomiya Kokomi",
         "RU": "Кокоми",
         "TH": "Sangonomiya Kokomi",
+        "TH_1": "Sangonomiya Kokomi",
+        "TH_2": "",
         "TR": "Sangonomiya Kokomi",
         "VI": "Sangonomiya Kokomi"
     },
@@ -710,6 +792,8 @@
         "PT": "Gorou",
         "RU": "Горо",
         "TH": "Gorou",
+        "TH_1": "",
+        "TH_2": "Gorou",
         "TR": "Gorou",
         "VI": "Gorou"
     },
@@ -727,6 +811,8 @@
         "PT": "Kujou Sara",
         "RU": "Сара",
         "TH": "Kujou Sara",
+        "TH_1": "Kujou Sara",
+        "TH_2": "",
         "TR": "Kujou Sara",
         "VI": "Kujou Sara"
     },
@@ -744,6 +830,8 @@
         "PT": "Arataki Itto",
         "RU": "Итто",
         "TH": "Arataki Itto",
+        "TH_1": "Arataki Itto",
+        "TH_2": "",
         "TR": "Arataki Itto",
         "VI": "Arataki Itto"
     },
@@ -761,6 +849,8 @@
         "PT": "Yae Miko",
         "RU": "Яэ Мико",
         "TH": "Yae Miko",
+        "TH_1": "",
+        "TH_2": "Yae Miko",
         "TR": "Yae Miko",
         "VI": "Yae Miko"
     },
@@ -778,6 +868,8 @@
         "PT": "Shikanoin Heizou",
         "RU": "Хэйдзо",
         "TH": "Shikanoin Heizou",
+        "TH_1": "",
+        "TH_2": "Shikanoin Heizou",
         "TR": "Shikanoin Heizou",
         "VI": "Shikanoin Heizou"
     },
@@ -795,6 +887,8 @@
         "PT": "Yelan",
         "RU": "Е Лань",
         "TH": "Yelan",
+        "TH_1": "",
+        "TH_2": "Yelan",
         "TR": "Yelan",
         "VI": "Yelan"
     },
@@ -812,6 +906,8 @@
         "PT": "Kirara",
         "RU": "Кирара",
         "TH": "Kirara",
+        "TH_1": "",
+        "TH_2": "Kirara",
         "TR": "Kirara",
         "VI": "Kirara"
     },
@@ -829,6 +925,8 @@
         "PT": "Aloy",
         "RU": "Элой",
         "TH": "Aloy",
+        "TH_1": "",
+        "TH_2": "Aloy",
         "TR": "Aloy",
         "VI": "Aloy"
     },
@@ -846,6 +944,8 @@
         "PT": "Shenhe",
         "RU": "Шэнь Хэ",
         "TH": "Shenhe",
+        "TH_1": "",
+        "TH_2": "Shenhe",
         "TR": "Shenhe",
         "VI": "Shenhe"
     },
@@ -863,6 +963,8 @@
         "PT": "Yunjin",
         "RU": "Юнь Цзинь",
         "TH": "Yun Jin",
+        "TH_1": "",
+        "TH_2": "Yun Jin",
         "TR": "Yun Jin",
         "VI": "Yun Jin"
     },
@@ -880,6 +982,8 @@
         "PT": "Kuki Shinobu",
         "RU": "Синобу",
         "TH": "Kuki Shinobu",
+        "TH_1": "",
+        "TH_2": "Kuki Shinobu",
         "TR": "Kuki Shinobu",
         "VI": "Kuki Shinobu"
     },
@@ -897,6 +1001,8 @@
         "PT": "Kamisato Ayato",
         "RU": "Аято",
         "TH": "Kamisato Ayato",
+        "TH_1": "Kamisato Ayato",
+        "TH_2": "",
         "TR": "Kamisato Ayato",
         "VI": "Kamisato Ayato"
     },
@@ -914,6 +1020,8 @@
         "PT": "Collei",
         "RU": "Коллеи",
         "TH": "Collei",
+        "TH_1": "",
+        "TH_2": "Collei",
         "TR": "Collei",
         "VI": "Collei"
     },
@@ -931,6 +1039,8 @@
         "PT": "Dori",
         "RU": "Дори",
         "TH": "Dori",
+        "TH_1": "Dori",
+        "TH_2": "",
         "TR": "Dori",
         "VI": "Dori"
     },
@@ -948,6 +1058,8 @@
         "PT": "Tighnari",
         "RU": "Тигнари",
         "TH": "Tighnari",
+        "TH_1": "Tighnari",
+        "TH_2": "",
         "TR": "Tighnari",
         "VI": "Tighnari"
     },
@@ -965,6 +1077,8 @@
         "PT": "Nilou",
         "RU": "Нилу",
         "TH": "Nilou",
+        "TH_1": "Nilou",
+        "TH_2": "",
         "TR": "Nilou",
         "VI": "Nilou"
     },
@@ -982,6 +1096,8 @@
         "PT": "Cyno",
         "RU": "Сайно",
         "TH": "Cyno",
+        "TH_1": "Cyno",
+        "TH_2": "",
         "TR": "Cyno",
         "VI": "Cyno"
     },
@@ -999,6 +1115,8 @@
         "PT": "Candace",
         "RU": "Кандакия",
         "TH": "Candace",
+        "TH_1": "Candace",
+        "TH_2": "",
         "TR": "Candace",
         "VI": "Candace"
     },
@@ -1016,6 +1134,8 @@
         "PT": "Nahida",
         "RU": "Нахида",
         "TH": "Nahida",
+        "TH_1": "",
+        "TH_2": "Nahida",
         "TR": "Nahida",
         "VI": "Nahida"
     },
@@ -1033,6 +1153,8 @@
         "PT": "Layla",
         "RU": "Лайла",
         "TH": "Layla",
+        "TH_1": "Layla",
+        "TH_2": "",
         "TR": "Layla",
         "VI": "Layla"
     },
@@ -1050,6 +1172,8 @@
         "PT": "Andarilho",
         "RU": "Странник",
         "TH": "ผู้พเนจร",
+        "TH_1": "ผู้พเนจร",
+        "TH_2": "",
         "TR": "Avare",
         "VI": "Kẻ Lang Thang"
     },
@@ -1067,6 +1191,8 @@
         "PT": "Faruzan",
         "RU": "Фарузан",
         "TH": "Faruzan",
+        "TH_1": "",
+        "TH_2": "Faruzan",
         "TR": "Faruzan",
         "VI": "Faruzan"
     },
@@ -1084,6 +1210,8 @@
         "PT": "Yaoyao",
         "RU": "Яо Яо",
         "TH": "Yaoyao",
+        "TH_1": "",
+        "TH_2": "Yaoyao",
         "TR": "Yaoyao",
         "VI": "Yaoyao"
     },
@@ -1101,6 +1229,8 @@
         "PT": "Alhaitham",
         "RU": "Аль-Хайтам",
         "TH": "Alhaitham",
+        "TH_1": "",
+        "TH_2": "Alhaitham",
         "TR": "Alhaitham",
         "VI": "Alhaitham"
     },
@@ -1118,6 +1248,8 @@
         "PT": "Dehya",
         "RU": "Дэхья",
         "TH": "Dehya",
+        "TH_1": "Dehya",
+        "TH_2": "",
         "TR": "Dehya",
         "VI": "Dehya"
     },
@@ -1135,6 +1267,8 @@
         "PT": "Mika",
         "RU": "Мика",
         "TH": "Mika",
+        "TH_1": "Mika",
+        "TH_2": "",
         "TR": "Mika",
         "VI": "Mika"
     },
@@ -1152,6 +1286,8 @@
         "PT": "Kaveh",
         "RU": "Кавех",
         "TH": "Kaveh",
+        "TH_1": "Kaveh",
+        "TH_2": "",
         "TR": "Kaveh",
         "VI": "Kaveh"
     },
@@ -1169,6 +1305,8 @@
         "PT": "Baizhu",
         "RU": "Бай Чжу",
         "TH": "Baizhu",
+        "TH_1": "Baizhu",
+        "TH_2": "",
         "TR": "Baizhu",
         "VI": "Baizhu"
     },
@@ -1186,6 +1324,8 @@
         "PT": "Lynette",
         "RU": "Линетт",
         "TH": "Lynette",
+        "TH_1": "Lynette",
+        "TH_2": "",
         "TR": "Lynette",
         "VI": "Lynette"
     },
@@ -1203,6 +1343,8 @@
         "PT": "Lyney",
         "RU": "Лини",
         "TH": "Lyney",
+        "TH_1": "Lyney",
+        "TH_2": "",
         "TR": "Lyney",
         "VI": "Lyney"
     },
@@ -1220,6 +1362,8 @@
         "PT": "Freminet",
         "RU": "Фремине",
         "TH": "Freminet",
+        "TH_1": "",
+        "TH_2": "Freminet",
         "TR": "Freminet",
         "VI": "Freminet"
     },
@@ -1237,6 +1381,8 @@
         "PT": "Wriothesley",
         "RU": "Ризли",
         "TH": "Wriothesley",
+        "TH_1": "",
+        "TH_2": "Wriothesley",
         "TR": "Wriothesley",
         "VI": "Wriothesley"
     },
@@ -1254,6 +1400,8 @@
         "PT": "Neuvillette",
         "RU": "Нёвиллет",
         "TH": "Neuvillette",
+        "TH_1": "Neuvillette",
+        "TH_2": "",
         "TR": "Neuvillette",
         "VI": "Neuvillette"
     },
@@ -1271,6 +1419,8 @@
         "PT": "Charlotte",
         "RU": "Шарлотта",
         "TH": "Charlotte",
+        "TH_1": "Charlotte",
+        "TH_2": "",
         "TR": "Charlotte",
         "VI": "Charlotte"
     },
@@ -1288,6 +1438,8 @@
         "PT": "Furina",
         "RU": "Фурина",
         "TH": "Furina",
+        "TH_1": "Furina",
+        "TH_2": "",
         "TR": "Furina",
         "VI": "Furina"
     },
@@ -1305,6 +1457,8 @@
         "PT": "Chevreuse",
         "RU": "Шеврёз",
         "TH": "Chevreuse",
+        "TH_1": "Chevreuse",
+        "TH_2": "",
         "TR": "Chevreuse",
         "VI": "Chevreuse"
     },
@@ -1322,6 +1476,8 @@
         "PT": "Navia",
         "RU": "Навия",
         "TH": "Navia",
+        "TH_1": "Navia",
+        "TH_2": "",
         "TR": "Navia",
         "VI": "Navia"
     },
@@ -1339,6 +1495,8 @@
         "PT": "Gaming",
         "RU": "Ка Мин",
         "TH": "Gaming",
+        "TH_1": "Gaming",
+        "TH_2": "",
         "TR": "Gaming",
         "VI": "Gaming"
     },
@@ -1356,6 +1514,8 @@
         "PT": "Xianyun",
         "RU": "Сянь Юнь",
         "TH": "Xianyun",
+        "TH_1": "",
+        "TH_2": "Xianyun",
         "TR": "Xianyun",
         "VI": "Xianyun"
     },
@@ -1373,6 +1533,8 @@
         "PT": "Chiori",
         "RU": "Тиори",
         "TH": "Chiori",
+        "TH_1": "Chiori",
+        "TH_2": "",
         "TR": "Chiori",
         "VI": "Chiori"
     },
@@ -1390,6 +1552,8 @@
         "PT": "Sigewinne",
         "RU": "Сиджвин",
         "TH": "Sigewinne",
+        "TH_1": "",
+        "TH_2": "Sigewinne",
         "TR": "Sigewinne",
         "VI": "Sigewinne"
     },
@@ -1407,6 +1571,8 @@
         "PT": "Arlecchino",
         "RU": "Арлекино",
         "TH": "Arlecchino",
+        "TH_1": "",
+        "TH_2": "Arlecchino",
         "TR": "Arlecchino",
         "VI": "Arlecchino"
     },
@@ -1424,6 +1590,8 @@
         "PT": "Sethos",
         "RU": "Сетос",
         "TH": "Sethos",
+        "TH_1": "",
+        "TH_2": "Sethos",
         "TR": "Sethos",
         "VI": "Sethos"
     },
@@ -1441,6 +1609,8 @@
         "PT": "Clorinde",
         "RU": "Клоринда",
         "TH": "Clorinde",
+        "TH_1": "",
+        "TH_2": "Clorinde",
         "TR": "Clorinde",
         "VI": "Clorinde"
     },
@@ -1458,6 +1628,8 @@
         "PT": "Emilie",
         "RU": "Эмилия",
         "TH": "Emilie",
+        "TH_1": "",
+        "TH_2": "Emilie",
         "TR": "Emilie",
         "VI": "Emilie"
     },
@@ -1475,6 +1647,8 @@
         "PT": "Kachina",
         "RU": "Качина",
         "TH": "Kachina",
+        "TH_1": "Kachina",
+        "TH_2": "",
         "TR": "Kachina",
         "VI": "Kachina"
     },
@@ -1492,6 +1666,8 @@
         "PT": "Kinich",
         "RU": "Кинич",
         "TH": "Kinich",
+        "TH_1": "",
+        "TH_2": "Kinich",
         "TR": "Kinich",
         "VI": "Kinich"
     },
@@ -1509,6 +1685,8 @@
         "PT": "Mualani",
         "RU": "Муалани",
         "TH": "Mualani",
+        "TH_1": "Mualani",
+        "TH_2": "",
         "TR": "Mualani",
         "VI": "Mualani"
     },
@@ -1526,8 +1704,48 @@
         "PT": "Xilonen",
         "RU": "Шилонен",
         "TH": "Xilonen",
+        "TH_1": "",
+        "TH_2": "Xilonen",
         "TR": "Xilonen",
         "VI": "Xilonen"
+    },
+    "3746229466": {
+        "CHS": "恰斯卡",
+        "CHT": "恰斯卡",
+        "DE": "Chasca",
+        "EN": "Chasca",
+        "ES": "Chasca",
+        "FR": "Chasca",
+        "ID": "Chasca",
+        "IT": "Chasca",
+        "JP": "チャスカ",
+        "KR": "차스카",
+        "PT": "Chasca",
+        "RU": "Часка",
+        "TH": "",
+        "TH_1": "Chasca",
+        "TH_2": "",
+        "TR": "Chasca",
+        "VI": "Chasca"
+    },
+    "1198350762": {
+        "CHS": "欧洛伦",
+        "CHT": "歐洛倫",
+        "DE": "Ororon",
+        "EN": "Ororon",
+        "ES": "Ororon",
+        "FR": "Ororon",
+        "ID": "Ororon",
+        "IT": "Ororon",
+        "JP": "オロルン",
+        "KR": "올로룬",
+        "PT": "Ororon",
+        "RU": "Оророн",
+        "TH": "",
+        "TH_1": "Ororon",
+        "TH_2": "",
+        "TR": "Ororon",
+        "VI": "Ororon"
     },
     "3293134650": {
         "CHS": "玛薇卡(试用)",
@@ -1543,6 +1761,8 @@
         "PT": "Mavuika (Teste)",
         "RU": "Мавуика (пробный)",
         "TH": "Mavuika (ทดลองใช้)",
+        "TH_1": "",
+        "TH_2": "Mavuika (ทดลองใช้)",
         "TR": "Mavuika (Deneme)",
         "VI": "Mavuika (Thử Nghiệm)"
     }
